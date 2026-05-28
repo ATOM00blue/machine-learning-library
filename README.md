@@ -1,6 +1,6 @@
-# ML Foundations Corpus
+# Machine Learning Library
 
-**A hand-curated, machine-readable corpus of the best machine-learning education on the internet — top university courses, canonical research papers, and the most-cited explainer blogs — normalized into one consistent Markdown format with full provenance.**
+**A hand-curated, machine-readable library (a curated ML corpus / dataset) of the best machine-learning education on the internet — top university courses, canonical research papers, and the most-cited explainer blogs — normalized into one consistent Markdown format with full provenance.**
 
 590 documents · ~10 million tokens · beginner to frontier research · every source credited.
 
@@ -82,7 +82,7 @@ The explainers practitioners actually link to: Jay Alammar's *Illustrated* serie
 ## Repository structure
 
 ```
-ml-foundations-corpus/
+machine-learning-library/
 ├── README.md                  ← you are here
 ├── SOURCES.md                 ← full attribution: every source, credited
 ├── NOTICE.md                  ← licensing & usage notes
@@ -142,8 +142,8 @@ This corpus is a building block. Some of the things it's good for:
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/ml-foundations-corpus.git
-cd ml-foundations-corpus
+git clone https://github.com/ATOM00blue/machine-learning-library.git
+cd machine-learning-library
 
 # Browse the full index
 less corpus/INDEX.md
