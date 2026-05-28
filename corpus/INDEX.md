@@ -1,0 +1,647 @@
+# Corpus Index
+
+_Generated: 2026-05-26T23:30:31Z_
+
+## YouTube
+
+### 3blue1brown-neural-networks  (9 videos)
+- `youtube\3blue1brown-neural-networks\9-Jl0dxWQs8.md` — How might LLMs store facts | Deep Learning Chapter 7
+- `youtube\3blue1brown-neural-networks\aircAruvnKk.md` — But what is a neural network? | Deep learning chapter 1
+- `youtube\3blue1brown-neural-networks\eMlx5fFNoYc.md` — Attention in transformers, step-by-step | Deep Learning Chapter 6
+- `youtube\3blue1brown-neural-networks\IHZwWFHWa-w.md` — Gradient descent, how neural networks learn | Deep Learning Chapter 2
+- `youtube\3blue1brown-neural-networks\Ilg3gGewQ5U.md` — Backpropagation, intuitively | Deep Learning Chapter 3
+- `youtube\3blue1brown-neural-networks\iv-5mZ_9CPY.md` — But how do AI images and videos actually work? | Guest video by Welch Labs
+- `youtube\3blue1brown-neural-networks\LPZh9BOjkQs.md` — Large Language Models explained briefly
+- `youtube\3blue1brown-neural-networks\tIeHLnjs5U8.md` — Backpropagation calculus | Deep Learning Chapter 4
+- `youtube\3blue1brown-neural-networks\wjZofJX0v4M.md` — Transformers, the tech behind LLMs | Deep Learning Chapter 5
+
+### andrej-karpathy-channel  (15 videos)
+- `youtube\andrej-karpathy-channel\2oKjtvYslMY.md` — Stable diffusion dreams of steampunk brains
+- `youtube\andrej-karpathy-channel\7xTGNNLPyMI.md` — Deep Dive into LLMs like ChatGPT
+- `youtube\andrej-karpathy-channel\EWvNQjAaOHw.md` — How I use LLMs
+- `youtube\andrej-karpathy-channel\kCc8FmEb1nY.md` — Let's build GPT: from scratch, in code, spelled out.
+- `youtube\andrej-karpathy-channel\kVpDARqZdrQ.md` — Stable diffusion dreams of psychedelic faces
+- `youtube\andrej-karpathy-channel\l8pRSuU81PU.md` — Let's reproduce GPT-2 (124M)
+- `youtube\andrej-karpathy-channel\P6sfmUTpUmc.md` — Building makemore Part 3: Activations & Gradients, BatchNorm
+- `youtube\andrej-karpathy-channel\PaCmpygFfXo.md` — The spelled-out intro to language modeling: building makemore
+- `youtube\andrej-karpathy-channel\q8SA3rM6ckI.md` — Building makemore Part 4: Becoming a Backprop Ninja
+- `youtube\andrej-karpathy-channel\sM9bozW295Q.md` — Stable diffusion dreams of tattoos
+- `youtube\andrej-karpathy-channel\t3YJ5hKiMQ0.md` — Building makemore Part 5: Building a WaveNet
+- `youtube\andrej-karpathy-channel\TCH_1BHY58I.md` — Building makemore Part 2: MLP
+- `youtube\andrej-karpathy-channel\VMj-3S1tku0.md` — The spelled-out intro to neural networks and backpropagation: building micrograd
+- `youtube\andrej-karpathy-channel\zduSFxRajkE.md` — Let's build the GPT Tokenizer
+- `youtube\andrej-karpathy-channel\zjkBMFhNj_g.md` — [1hr Talk] Intro to Large Language Models
+
+### andrej-karpathy-neural-networks-zero-to-  (10 videos)
+- `youtube\andrej-karpathy-neural-networks-zero-to-\bZQun8Y4L2A.md` — State of GPT | BRK216HFS
+- `youtube\andrej-karpathy-neural-networks-zero-to-\kCc8FmEb1nY.md` — Let's build GPT: from scratch, in code, spelled out.
+- `youtube\andrej-karpathy-neural-networks-zero-to-\l8pRSuU81PU.md` — Let's reproduce GPT-2 (124M)
+- `youtube\andrej-karpathy-neural-networks-zero-to-\P6sfmUTpUmc.md` — Building makemore Part 3: Activations & Gradients, BatchNorm
+- `youtube\andrej-karpathy-neural-networks-zero-to-\PaCmpygFfXo.md` — The spelled-out intro to language modeling: building makemore
+- `youtube\andrej-karpathy-neural-networks-zero-to-\q8SA3rM6ckI.md` — Building makemore Part 4: Becoming a Backprop Ninja
+- `youtube\andrej-karpathy-neural-networks-zero-to-\t3YJ5hKiMQ0.md` — Building makemore Part 5: Building a WaveNet
+- `youtube\andrej-karpathy-neural-networks-zero-to-\TCH_1BHY58I.md` — Building makemore Part 2: MLP
+- `youtube\andrej-karpathy-neural-networks-zero-to-\VMj-3S1tku0.md` — The spelled-out intro to neural networks and backpropagation: building micrograd
+- `youtube\andrej-karpathy-neural-networks-zero-to-\zduSFxRajkE.md` — Let's build the GPT Tokenizer
+
+### deeplearningai  (49 videos)
+- `youtube\deeplearningai\-B0zaWoPEFs.md` — AI Dev 26 x SF | Panel Discussion: Future of Software Engineering
+- `youtube\deeplearningai\03h0SRCUAI4.md` — AI Dev 26 x SF | Matthew Xu: The 4-Legged Identity Challenge
+- `youtube\deeplearningai\0tTwDK_o9Oc.md` — AI Dev 26 x SF | William Imoh & Charlie Wood: Closing the Care Gap
+- `youtube\deeplearningai\1OZrOnz8kM0.md` — AI Dev 26 x SF | Tushar Jain: Shipping Agents Safely, Boundaries That Actually Work
+- `youtube\deeplearningai\4f5SfmXsfBI.md` — Build Visual AI Agents
+- `youtube\deeplearningai\6Ncfa6xWavg.md` — AI Dev 26 x SF | Adit Abraham: Better Agents with Better Data
+- `youtube\deeplearningai\7VISmcJpqis.md` — AI Dev 26 x SF | Ashwyn Sharma: Every App Needs a Voice UI. Here's How to Build It
+- `youtube\deeplearningai\80vV6fGIlWo.md` — AI Dev 26 x SF | Jerry Liu: My Agent Can't Read a PDF?
+- `youtube\deeplearningai\8ib4Qnh2HFE.md` — Full AI Prompting Course with Andrew Ng
+- `youtube\deeplearningai\_34LbyYNoqU.md` — AI Dev 26 x SF: Emma McGrattan: Engineering the Context Layer
+- `youtube\deeplearningai\_KAXZtMSDlo.md` — AI Dev 26 x SF | Ondra Urban: Agents with Wallets? Putting 25,000 Tools on x402
+- `youtube\deeplearningai\_w3WSNr6lO4.md` — AI Dev 26 x SF | Brandon Waselnuk: Building the Context Engine AI Agents Need
+- `youtube\deeplearningai\B4QV7xohF40.md` — AI Dev 26 x SF | Vlad Luzin: Herding Cats—The Hidden Challenges of Multi-Agent Autonomy
+- `youtube\deeplearningai\BapZILq8_zA.md` — AI Dev 26 x SF | Amrita Venkatraman: 3rd Era of Software Development
+- `youtube\deeplearningai\bDIB8jrNhHc.md` — AI Dev 26 x SF | Ankit Mathur: The Coding Agent Multiverse of Madness
+- `youtube\deeplearningai\bQbzfC8jAXY.md` — AI Dev 26 x SF | Marc Brooker: It's Time to Be Right
+- `youtube\deeplearningai\C5oYk1bn4_o.md` — AI Dev 26 x SF | Daniel Beutel: Flower SuperGrid Agents
+- `youtube\deeplearningai\chs2Xx4JbBs.md` — AI Dev 26 x SF | Paige Bailey: What's New and What's Next in AI
+- `youtube\deeplearningai\cnt83ML6-fA.md` — AI Dev 26 x SF | Andi Partovi: Why Every Agent Needs a Simulation Sandbox
+- `youtube\deeplearningai\CXd0kDikK0U.md` — AI Dev 26 x SF | Or Dagan: Optimizing Accuracy, Cost, and Latency in Real-World Agents
+- `youtube\deeplearningai\DvDnGlvGQCk.md` — AI Dev 26 x SF | Jeff Huber: Everything You Need to Know About Agentic Search
+- `youtube\deeplearningai\e9QDd1Osrro.md` — AI Dev 26 x SF | Barun Singh & Kennith Jackson; The Hidden Cost of AI Velocity and AI Agents
+- `youtube\deeplearningai\EeyLHsND5i0.md` — AI Dev 26 x SF | Atai Barkai: Fullstack Agents & Generative UI with AG UI
+- `youtube\deeplearningai\fAfuQN0WwFE.md` — AI Dev 26 x SF | Ara Khan: Evals Are Broken Use Them Anyway
+- `youtube\deeplearningai\FMpgh2QfX_g.md` — AI Dev 26 x SF | Anush Elangovan: Impact of AI on Software
+- `youtube\deeplearningai\g8um2AEf5ZA.md` — AI Dev 26 x SF: Andrew Ng: The Future of Software Engineering
+- `youtube\deeplearningai\hsy02uiKcAM.md` — AI Dev 26 x SF | João Moura: Building Recurring, Governed, and Embedded Enterprise Workflows
+- `youtube\deeplearningai\J6hpb-DE7M8.md` — AI Dev 26 x SF | Pratik Verma: Observability Agent to Find & Fix Issues in AI Agents
+- `youtube\deeplearningai\jkHVVrZhZjQ.md` — AI Dev 26 x SF | Nyah Macklin: The AI Said So? How to Build Auditable AI Agents Using Context Graphs
+- `youtube\deeplearningai\JqyB0taAo7w.md` — AI Dev 26 x SF | David Park: Building Production Grade Agentic Systems with ADE
+- `youtube\deeplearningai\kCzEixkZsfE.md` — AI Dev 26 x SF | A Fireside Chat with OpenAI's Marc Manara
+- `youtube\deeplearningai\klAynlP04h0.md` — AI Dev 26 x SF | Idan Raman: The Identity Crisis of Browser Agents
+- `youtube\deeplearningai\L_47rVSuwBU.md` — AI Dev 26 x SF | Andrew Filev: Multi Model Pipelines—How to Get Better AI Results for Less
+- `youtube\deeplearningai\lN7FH754NjM.md` — AI Dev 26 x SF | Aman Singla & Aseem Chandra: MarcoPolo, A Workspace for AI to Work with Your Data
+- `youtube\deeplearningai\MlVuNCP9uxs.md` — AI Dev 26 x SF | Manos Koukoumidis & Stefan Webb: VibeML: Build your AI model in hours, not months
+- `youtube\deeplearningai\n366hY4JZ9U.md` — AI Dev 26 x SF | Paul Everitt: The Shift to Agentic Engineering
+- `youtube\deeplearningai\nlduRWBt4S8.md` — AI Dev 26 x SF | Aditi Gupta: Building SRE Agents with the Redis Context Engine
+- `youtube\deeplearningai\NtvEHHwKdUE.md` — AI Dev 26 x SF | Thierry Damiba: Edge to Cloud Video Anomaly Detection
+- `youtube\deeplearningai\ODvRuSy5loE.md` — AI Dev 26 x SF | Andrew K.  Davies: Deterministic Memory: How to Build an AI That Cannot Lie
+- `youtube\deeplearningai\okSgumIGLBY.md` — AI Dev 26 x SF | Carter Rabasa: File Systems Are the New Primitive for AI Agents
+- `youtube\deeplearningai\QVawxdMRZtk.md` — AI Dev 26 x SF | Eda Zhou & Mahdi Ghodsi: Building Personal AI Agents with Open Source Models
+- `youtube\deeplearningai\sz1lB31xxqo.md` — AI Dev 26 x SF | Brandon Middleton: Vibe Coding Master Class
+- `youtube\deeplearningai\T-E5YF432Qw.md` — AI Dev 26 x SF | Melissa Herrera: Your Agents Should Be Durable
+- `youtube\deeplearningai\vFIHrJuwVTc.md` — AI Dev 26 x SF | Paige Bailey: Research to Reality
+- `youtube\deeplearningai\wKAeqSfIX5g.md` — AI Dev 26 x SF | Diamond Bishop: The Next 100 Agents. Building the Agent Native Office
+- `youtube\deeplearningai\Y8h43EEdOrA.md` — AI Dev 26 x SF: Jean-Marie John-Mathews: Red Teaming LLM Applications   Systematically
+- `youtube\deeplearningai\ycKLqk5tezw.md` — AI Dev 26 x SF | Luke Kim: The Agent Data Stack—Why Every AI Agent Needs Its Own Data Stack
+- `youtube\deeplearningai\Z_pCTBtCmck.md` — AI Dev 26 x SF | Tom Howlett: Can LLMs Generate Enterprise Quality Code?
+- `youtube\deeplearningai\zbuf9J5KgOM.md` — AI Dev 26 x SF | Erik Thorelli: Deploying AI Code Review at Scale
+
+### jeremy-howard-fastai-practical-deep-lear  (48 videos)
+- `youtube\jeremy-howard-fastai-practical-deep-lear\0_BBRNYInx8.md` — Lesson 9A 2022 - Stable Diffusion deep dive
+- `youtube\jeremy-howard-fastai-practical-deep-lear\0Hi2r4CaHvk.md` — Lesson 15: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\67FdzLSt4aA.md` — nbdev tutorial (sped up)
+- `youtube\jeremy-howard-fastai-practical-deep-lear\6Bta1tXRUfM.md` — Lesson 22: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\6GvB5lZJqcE.md` — Jeremy Howard demo for Mojo launch
+- `youtube\jeremy-howard-fastai-practical-deep-lear\6StU6UtZEbU.md` — Lesson 10: Deep Learning Foundations to Stable Diffusion, 2022
+- `youtube\jeremy-howard-fastai-practical-deep-lear\8AgZ9jcQ9v8.md` — Lesson 25: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\9YZaYjRKuEc.md` — Lesson 16: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\_7rMfsA24Ls.md` — Lesson 9: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\AbBZEULuCwc.md` — Jeremy Howard on ABC Weekend Breakfast
+- `youtube\jeremy-howard-fastai-practical-deep-lear\Auqrm7WFc0I.md` — Getting started with FastHTML
+- `youtube\jeremy-howard-fastai-practical-deep-lear\bxDDLMe6KuU.md` — A Tour of the Solveit Platform
+- `youtube\jeremy-howard-fastai-practical-deep-lear\bYdAEut4xhc.md` — Fast.ai APL study session 15
+- `youtube\jeremy-howard-fastai-practical-deep-lear\DH5bp6zTPB4.md` — Lesson 24: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\du77RpFBEaE.md` — Fast.ai APL study session 13
+- `youtube\jeremy-howard-fastai-practical-deep-lear\e9tL_Eg3fpM.md` — How To Solve It With Code—background on the course; a discussion with Jeremy and Hamel
+- `youtube\jeremy-howard-fastai-practical-deep-lear\EtZ4pEzPMcc.md` — MonsterUI: Beautiful Python Web Apps in Minutes
+- `youtube\jeremy-howard-fastai-practical-deep-lear\eUuGdh3nBGo.md` — Going Further with CUDA for Python Programmers
+- `youtube\jeremy-howard-fastai-practical-deep-lear\GxcLDDJVBBg.md` — Jeremy Howard and Joshua Browder discuss AI & Jobs with Piers Morgan
+- `youtube\jeremy-howard-fastai-practical-deep-lear\ItyO8s48zdc.md` — Lesson 19: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\jkrNMKz9pWU.md` — A Hackers' Guide to Language Models
+- `youtube\jeremy-howard-fastai-practical-deep-lear\jNIPiNrl9Jo.md` — Tanishq Mathew Abraham - Their Life and Work Eps 1
+- `youtube\jeremy-howard-fastai-practical-deep-lear\K7Q-SfYu-X8.md` — Fast.ai APL study session 16
+- `youtube\jeremy-howard-fastai-practical-deep-lear\l7zS8Ld4_iA.md` — nbdev tutorial -- zero to published project in 90 minutes
+- `youtube\jeremy-howard-fastai-practical-deep-lear\LDklFaxssFE.md` — Sarah Pan, teenage AI wizard
+- `youtube\jeremy-howard-fastai-practical-deep-lear\LrFbxIvsipw.md` — Jeremy Howard interview at PytorchCon with Anna Tong
+- `youtube\jeremy-howard-fastai-practical-deep-lear\m-GOZSi2R_Q.md` — What is Solveit? Showing some recent use cases
+- `youtube\jeremy-howard-fastai-practical-deep-lear\mYpjmM7O-30.md` — Lesson 9B - the math of diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\nlVOG2Nzc3k.md` — Lesson 18: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\nNQg3BYu228.md` — Fast.ai APL study session 17
+- `youtube\jeremy-howard-fastai-practical-deep-lear\nOxKexn3iBo.md` — Getting Started With CUDA for Python Programmers
+- `youtube\jeremy-howard-fastai-practical-deep-lear\nT26xUqdi04.md` — fast.ai APL study session 12
+- `youtube\jeremy-howard-fastai-practical-deep-lear\ofkks-94CDc.md` — Fast.ai APL study session 14
+- `youtube\jeremy-howard-fastai-practical-deep-lear\PdNHkTLU2oQ.md` — Lesson 20: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\PXiD7ZjOKhA.md` — Lesson 21: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\PZN_9-_xqk0.md` — Tip: Being more productive in Discord
+- `youtube\jeremy-howard-fastai-practical-deep-lear\QqZUzkPcU7A.md` — Intro to FastHTML
+- `youtube\jeremy-howard-fastai-practical-deep-lear\Tf-8F5q8Xww.md` — Lesson 11 2022: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\uKUMT6Bj4l8.md` — Live coding 4
+- `youtube\jeremy-howard-fastai-practical-deep-lear\veqj0DsZSXU.md` — Lesson 14: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\vGdB4eI4KBs.md` — Lesson 13: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\vGsc_NbU7xc.md` — Lesson 17: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\WJS2YDZO-vc.md` — Build to Last — Chris Lattner talks with Jeremy Howard
+- `youtube\jeremy-howard-fastai-practical-deep-lear\WuipZMUch18.md` — How HTMX is changing the web, with Carson Gross
+- `youtube\jeremy-howard-fastai-practical-deep-lear\xxVVSxcjNQs.md` — J.J. Allaire (RStudio) and Jeremy Howard (fast.ai): \"2-way AMA\
+- `youtube\jeremy-howard-fastai-practical-deep-lear\YKeXxj4geRo.md` — How To Solve It With Code — Overview
+- `youtube\jeremy-howard-fastai-practical-deep-lear\z1In7QaG0fg.md` — Lesson 23: Deep Learning Foundations to Stable Diffusion
+- `youtube\jeremy-howard-fastai-practical-deep-lear\zIqLuuyxgE4.md` — The Best Way to Read a Book (That Nobody's Doing)
+
+### mit-6s191-introduction-to-deep-learning-  (86 videos)
+- `youtube\mit-6s191-introduction-to-deep-learning-\-boCMDouF2g.md` — MIT 6.S191 (2021): Deep Learning New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\-WbN61qtTGQ.md` — MIT 6.S191 (2022): Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\1ij3dweHu-0.md` — MIT 6.S191: Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\2xqkSUhmmXU.md` — MIT 6.S191 (2024): Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\3G5hWM6jqPk.md` — MIT 6.S191 (2023): Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\4PuuziOgSU4.md` — MIT 6.S191 (2020): Neurosymbolic AI
+- `youtube\mit-6s191-introduction-to-deep-learning-\5tvmMX8r_OM.md` — MIT 6.S191 (2021): Introduction to Deep Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\5v1JnYv_yWs.md` — MIT 6.S191 (2019): Introduction to Deep Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\7sB052Pz0sQ.md` — MIT Introduction to Deep Learning (2022) | 6.S191
+- `youtube\mit-6s191-introduction-to-deep-learning-\8JVRbHAVCws.md` — MIT 6.S191 (2024): Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\8Kn4Gi8iSYQ.md` — MIT 6.S191 (2020): Generalizable Autonomy for Robot Manipulation
+- `youtube\mit-6s191-introduction-to-deep-learning-\93M1l_nrhpQ.md` — MIT 6.S191 (2021): Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\_h66BW-xNgk.md` — MIT 6.S191 (2019): Recurrent Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\_HfdncCbMOE.md` — MIT 6.S191 (2025): Large Language Models (Liquid AI)
+- `youtube\mit-6s191-introduction-to-deep-learning-\_MzaThb_jno.md` — MIT 6.S191 (2019): Image Domain Transfer (NVIDIA)
+- `youtube\mit-6s191-introduction-to-deep-learning-\aFEnWHxUd7s.md` — MIT 6.S191 (2018): Computer Vision Meets Social Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\AhyznRSDjw8.md` — MIT 6.S191 (2023): Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\AjtX1N_VT9E.md` — MIT 6.S191 (2021): Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\alfdI7S6wCY.md` — MIT Introduction to Deep Learning (2025) | 6.S191
+- `youtube\mit-6s191-introduction-to-deep-learning-\BCZ56MU-KhQ.md` — MIT 6.S191 (2020): Neural Rendering
+- `youtube\mit-6s191-introduction-to-deep-learning-\BUNl0To1IVw.md` — MIT 6.S191 (2021): Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\cvXVK8oqU4Q.md` — MIT 6.S191: AI in Healthcare
+- `youtube\mit-6s191-introduction-to-deep-learning-\CyCUZAf8xSU.md` — MIT 6.S191 (2025): A Hipocratic Oath, for *your* AI (Comet ML)
+- `youtube\mit-6s191-introduction-to-deep-learning-\CznICCPa63Q.md` — MIT 6.S191 (2018): Sequence Modeling with Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\d02VkQ9MP44.md` — MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention
+- `youtube\mit-6s191-introduction-to-deep-learning-\Dmm4UG-6jxA.md` — MIT 6.S191 (2024): Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\dqoEU9Ac3ek.md` — MIT 6.S191 (2024): Recurrent Neural Networks, Transformers, and Attention
+- `youtube\mit-6s191-introduction-to-deep-learning-\ErnWZxJovaM.md` — MIT Introduction to Deep Learning (2024) | 6.S191
+- `youtube\mit-6s191-introduction-to-deep-learning-\eS-OHAHOqU0.md` — MIT 6.S191: Taming Dataset Bias via Domain Adaptation
+- `youtube\mit-6s191-introduction-to-deep-learning-\ev7cLSd-ySE.md` — MIT 6.S191: Language Models and New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\FHeCmnNe0P8.md` — MIT 6.S191 (2023): Deep Learning New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\FkHWKq86tSw.md` — MIT 6.S191 (2018): Faster ML Development with TensorFlow
+- `youtube\mit-6s191-introduction-to-deep-learning-\GvezxUdLrEk.md` — MIT 6.S191 (2025): Recurrent Neural Networks, Transformers, and Attention
+- `youtube\mit-6s191-introduction-to-deep-learning-\H-HVZJ7kGI0.md` — MIT 6.S191 (2019): Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\HLKo4fJx_7k.md` — MIT 6.S191 (2025): Language Models and New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\i6Mi2_QM3rA.md` — MIT 6.S191 (2019): Deep Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\iaSUYvmCekI.md` — MIT 6.S191 (2020): Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\II4giR4vOOo.md` — MIT Introduction to Deep Learning | 6.S191
+- `youtube\mit-6s191-introduction-to-deep-learning-\INja7C5_vqk.md` — MIT 6.S191 (2019): Deep Learning Limitations and New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\JN6H4rQvwgY.md` — MIT 6.S191 (2018): Introduction to Deep Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\JVb54xhEw6Y.md` — MIT 6.S191 (2018): Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\kIiO4VSrivU.md` — MIT 6.S191 (2023): Robust and Trustworthy Deep Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\l82PxsKHxYc.md` — Barack Obama: Intro to Deep Learning | MIT 6.S191
+- `youtube\mit-6s191-introduction-to-deep-learning-\l_yWLAQg7LU.md` — MIT 6.S191 (2018): Deep Learning Limitations and New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\lkkFcg9k9ho.md` — MIT 6.S191: Towards AI for 3D Content Creation
+- `youtube\mit-6s191-introduction-to-deep-learning-\mNqVGB2HkXg.md` — MIT 6.S191 (2018): Beyond Deep Learning: Learning+Reasoning
+- `youtube\mit-6s191-introduction-to-deep-learning-\N1fbskTpwZ0.md` — MIT 6.S191 (2024): Language Models and New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\NHZMfSMAHlo.md` — MIT 6.S191: LiDAR for Autonomous Driving
+- `youtube\mit-6s191-introduction-to-deep-learning-\njKP3FqW3Sk.md` — MIT 6.S191 (2020): Introduction to Deep Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\NmLK_WQBxB4.md` — MIT 6.S191 (2023): Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\NVH8EYPHi30.md` — MIT 6.S191 (2018): Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\nZfaHIxDD5w.md` — MIT 6.S191 (2020): Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\oGpzWAlP5p0.md` — MIT 6.S191 (2025): Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\p1NpGC8K-vs.md` — MIT 6.S191 (2023): The Modern Era of Statistics
+- `youtube\mit-6s191-introduction-to-deep-learning-\P7Hkh2zOGQ0.md` — MIT 6.S191 (2024): Google - Generative AI for Media
+- `youtube\mit-6s191-introduction-to-deep-learning-\pqIcoskUuWs.md` — MIT 6.S191: Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\QcLlc9lj2hk.md` — MIT 6.S191 (2022): Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\qjrad0V0uJE.md` — MIT 6.S191 (2021): Recurrent Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\QvkQ1B3FBqA.md` — MIT 6.S191 (2022): Recurrent Neural Networks and Transformers
+- `youtube\mit-6s191-introduction-to-deep-learning-\QYwESy6isuc.md` — MIT 6.S191 (2018): Issues in Image Classification
+- `youtube\mit-6s191-introduction-to-deep-learning-\QZxcTZj0L-M.md` — MIT 6.S191: AI for Science
+- `youtube\mit-6s191-introduction-to-deep-learning-\R8V8CbuxryI.md` — MIT 6.S191: Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\rZACoZD8AG8.md` — MIT 6.S191: AI for Science
+- `youtube\mit-6s191-introduction-to-deep-learning-\rZufA635dq4.md` — MIT 6.S191 (2020): Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\s5qqjyGiBdc.md` — MIT 6.S191 (2018): Deep Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\SA-v6Op2kL4.md` — MIT 6.S191 (2023): Text-to-Image Generation
+- `youtube\mit-6s191-introduction-to-deep-learning-\SdTZAMDKrNY.md` — MIT 6.S191 (2025): Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\SEnXr6v2ifU.md` — MIT 6.S191 (2020): Recurrent Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\sR6_bZ6VkAg.md` — MIT 6.S191: Automatic Speech Recognition
+- `youtube\mit-6s191-introduction-to-deep-learning-\SSzSOeGP87I.md` — MIT 6.S191 (2025): AI for Biology (Microsoft)
+- `youtube\mit-6s191-introduction-to-deep-learning-\tfM_DdbGTLs.md` — MIT 6.S191 (2020): Deep Learning New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\to-lHJfK4pw.md` — MIT 6.S191 (2025): Reinforcement Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\toTcf7tZK8c.md` — MIT 6.S191: Evidential Deep Learning and Uncertainty
+- `youtube\mit-6s191-introduction-to-deep-learning-\uapdILWYTzE.md` — MIT 6.S191 (2022): Convolutional Neural Networks
+- `youtube\mit-6s191-introduction-to-deep-learning-\ulLx2iPTIcs.md` — MIT 6.S191 (2019): Visualization for Machine Learning (Google Brain)
+- `youtube\mit-6s191-introduction-to-deep-learning-\veYq6EWZyVc.md` — MIT 6.S191: Uncertainty in Deep Learning
+- `youtube\mit-6s191-introduction-to-deep-learning-\WkUYsVC3hKI.md` — MIT 6.S191: Deep CPCFG for Information Extraction
+- `youtube\mit-6s191-introduction-to-deep-learning-\wmyVODy_WD8.md` — MIT 6.S191: AI Bias and Fairness
+- `youtube\mit-6s191-introduction-to-deep-learning-\wySXLRTxAGQ.md` — MIT 6.S191 (2022): Deep Learning New Frontiers
+- `youtube\mit-6s191-introduction-to-deep-learning-\XKOpA7iaJvg.md` — MIT 6.S191: The Three Laws of AI
+- `youtube\mit-6s191-introduction-to-deep-learning-\yFBFl1cLYx8.md` — MIT 6.S191 (2019): Deep Generative Modeling
+- `youtube\mit-6s191-introduction-to-deep-learning-\ySEx_Bqxvvo.md` — MIT 6.S191 (2023): Recurrent Neural Networks, Transformers, and Attention
+- `youtube\mit-6s191-introduction-to-deep-learning-\Z5Pw5eWItiw.md` — MIT 6.S191 (2020): Machine Learning for Scent
+- `youtube\mit-6s191-introduction-to-deep-learning-\Z7YMDwzUTds.md` — MIT 6.S191 (2018): Deep Learning - A Personal Perspective
+- `youtube\mit-6s191-introduction-to-deep-learning-\ZAGiinWiFsE.md` — MIT 6.S191 (2024): Building AI Models in the Wild
+- `youtube\mit-6s191-introduction-to-deep-learning-\ZNodOsz94cc.md` — MIT 6.S191 (2025): Large Language Models (Google)
+
+### stanford-cs224n-nlp-with-deep-learning-w  (46 videos)
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\-Ldg4qFL6bU.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 16 - Social & Ethical Considerations
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\0LixFSa7yts.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 6 - Simple and LSTM RNNs
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\1uMo8olr5ng.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Natural Language Generation
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\2t7Q9WVUaf8.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 18 - Future of NLP + Deep Learning
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\35X6zlhoCy4.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training by Archit Sharma
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\4ynrGLIuPv4.md` — Stanford CS224N NLP with Deep Learning |Spring 2022|Guest Lecture: Building Knowledge Representation
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\5vfIT5LOkR0.md` — Stanford CS224N NLP with Deep Learning | 2023 | Lecture 16 - Multimodal Deep Learning, Douwe Kiela
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\8j4wpU98Q74.md` — Stanford CS224N NLP with Deep Learning | 2023 | Python Tutorial, Manasi Sharma
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\b80by3Xk_A8.md` — Stanford CS224N NLP with Deep Learning | 2023 | Hugging Face Tutorial, Eric Frankel
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\Ba6Fn1-Jsfw.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 6 - Sequence to Sequence Models
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\cd3pRpEtjLs.md` — Stanford CS224N NLP with Deep Learning | 2023 | Lec. 19 - Model Interpretability & Editing, Been Kim
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\DGfCRXuNA2w.md` — Stanford CS224N NLP with Deep Learning | 2023 | Lecture 9 - Pretraining
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\dnF463_Ar9I.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 15 - After DPO by Nathan Lambert
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\DzpHeXVSC5I.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 1 - Intro and Word Vectors
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\f_qmSSBWV_E.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 17 - Model Analysis and Explanation
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\FFRnDRcbQQU.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 13 - Coreference Resolution
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\fyc0Jzr74y4.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 5 - Recurrent Neural Networks
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\gKD7jPAdbpE.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 8 - Final Projects; Practical Tips
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\gqaHkPEZAew.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 2 - Neural Classifiers
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\HnliVHU2g9U.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 3 - Backpropagation, Neural Network
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\I0tj4Y7xaOQ.md` — Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 14 - Reasoning and Agents by Shikhar Murty
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\iHWkLvoSpTg.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 14 - T5 and Large Language Models
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\iXjtJmUQBZk.md` — Stanford CS224N I NLP with Deep Learning | Spring 2022 | Socially Intelligent NLP Systems
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\J7ruSOIzhrE.md` — Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 7 - Attention, Final Projects and LLM Intro
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\j9AcEI98C0o.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 10 - Transformers and Pretraining
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\knTc-NQSjKA.md` — Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\KVKvde-_MYc.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 4 - Dependency Parsing
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\LWMzyfvuehA.md` — Stanford CS224N NLP with Deep Learning | 2023 | Lecture 8 - Self-Attention and Transformers
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\mp95Z5yM92c.md` — Stanford CS224N: NLP with Deep Learning | Winter 2020 | Low Resource Machine Translation
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\N9L32bFieEY.md` — Stanford CS224N NLP with Deep Learning | 2023 | Lecture 11 - Natural Language Generation
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\nBor4jfWetQ.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 2 - Word Vectors and Language Models
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\NcqfHa0_YmU.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Question Answering
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\NxH0Y78xcF4.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 18 - NLP, Linguistics, Philosophy
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\PLryWeHPcBs.md` — Stanford CS224N -  NLP w/ DL | Winter 2021 | Lecture 5 - Recurrent Neural networks (RNNs)
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\PSGIodTN3KE.md` — Stanford CS224N - NLP w/ DL | Winter 2021 | Lecture 4 - Syntactic Structure and Dependency Parsing
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\ptuGllU5SQQ.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 9 - Self- Attention and Transformers
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\rmVRLeJRkl4.md` — Stanford CS224N: NLP with Deep Learning | Winter 2021 | Lecture 1 - Intro & Word Vectors
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\S8d-7v3f5MQ.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 16 - ConvNets and TreeRNNs
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\tfVgHsKpRC8.md` — Stanford CS224N: NLP w/ DL| Spring 2024 | Lecture 13 - Brain-Computer Interfaces, Chaofei Fan
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\TO0CqzqiArM.md` — Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 11 - Benchmarking by Yann Dubois
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\UFem7xa3Q2Q.md` — Stanford CS224N NLP with Deep Learning | Spring 2022 | Guest Lecture: Scaling Language Models
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\Uv0AIRr3ptg.md` — Stanford CS224N NLP with Deep Learning | 2023 | PyTorch Tutorial,  Drew Kaul
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\UVX7SYGCKkA.md` — Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training, Shikhar Murty
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\wzfWHP6SXxY.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 7 - Translation, Seq2Seq, Attention
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\X0Jw4kgaFlg.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 3 - Backprop and Neural Networks
+- `youtube\stanford-cs224n-nlp-with-deep-learning-w\y68RJVfGoto.md` — Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 15 - Add Knowledge to Language Models
+
+### stanford-cs229-machine-learning-andrew-n  (20 videos)
+- `youtube\stanford-cs229-machine-learning-andrew-n\0rt2CsEQv6U.md` — Lecture 19 - Reward Model & Linear Dynamical System | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\4b4MUYve_U8.md` — Stanford CS229: Machine Learning - Linear Regression and Gradient Descent |  Lecture 2 (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\8NYoQiRANpg.md` — Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\d5gaWTo6kDM.md` — Lecture 17 - MDPs & Value/Policy Iteration | Stanford CS229: Machine Learning Andrew Ng (Autumn2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\het9HFqo1TQ.md` — Locally Weighted & Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\iVOxMcumR4A.md` — Discussion Section: Learning Theory | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\iZTeva0WSTQ.md` — Lecture 4 - Perceptron & Generalized Linear Model | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\jGwO_UgTS7I.md` — Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\lDwow4aOrtg.md` — Lecture 6 - Support Vector Machines | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\MfIjxPh6Pys.md` — Lecture 10 - Introduction to Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\nt63k3bfXS0.md` — Lecture 5 - GDA & Naive Bayes | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\ORrStCArmP4.md` — Lecture 12 - Debugging ML Models and Error Analysis | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\pLhPQynL0tY.md` — RL Debugging and Diagnostics | Stanford CS229: Machine Learning Andrew Ng - Lecture 20 (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\QFu5nuc-S0s.md` — Lecture 18 - Continous State MDP & Model Simulation | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\rjbkWSTjHzM.md` — Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\rVfZHWTwXSA.md` — Lecture 13 - Expectation-Maximization Algorithms | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\tw6cmL5STuY.md` — Lecture 14 - EM Algorithm & Factor Analysis | Stanford CS229: Machine Learning Andrew Ng -Autumn2018
+- `youtube\stanford-cs229-machine-learning-andrew-n\wr9gUr-eWdA.md` — Lecture 9 - Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\YQA9lLdLig8.md` — Lecture 16 - Independent Component Analysis & RL | Stanford CS229: Machine Learning (Autumn 2018)
+- `youtube\stanford-cs229-machine-learning-andrew-n\zUazLXZZA2U.md` — Lecture 11 - Backprop & Improving Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)
+
+### stanford-cs230-deep-learning-andrew-ng-2  (9 videos)
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\733m6qBH-jI.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\ANszao6YQuM.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 4 - Adversarial Attacks / GANs
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\AwQHqWyHRpU.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 - Deep Learning Intuition
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\G5FNYxbW_Qw.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 6 - Deep Learning Project Strategy
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\IFLstgCNOA4.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 10 - Chatbots / Closing Remarks
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\IM9ANAbufYM.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 5 - AI + Healthcare
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\JUJNGv_sb4Y.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 3 - Full-Cycle Deep Learning Projects
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\NP2XqpgTJyo.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 9 - Deep Reinforcement Learning
+- `youtube\stanford-cs230-deep-learning-andrew-ng-2\PySo_6S4ZAg.md` — Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction & Logistics, Andrew Ng
+
+### stanford-cs231n-cnns-for-visual-recognit  (14 videos)
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\5WoItGTWV54.md` — Lecture 13 | Generative Models
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\6niqTuYFZLQ.md` — Lecture 10 | Recurrent Neural Networks
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\6SlgtELqOWc.md` — Lecture 8 | Deep Learning Software
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\_JB0AO7QxSA.md` — Lecture 7 | Training Neural Networks II
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\bNb2fEVKeEo.md` — Lecture 5 | Convolutional Neural Networks
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\CIfsB_EYsVI.md` — Lecture 16 | Adversarial Examples and Adversarial Training
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\d14TUNcbn1k.md` — Lecture 4 | Introduction to Neural Networks
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\DAOcjicFr1Y.md` — Lecture 9 | CNN Architectures
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\eZdOkDtYMoo.md` — Lecture 15 | Efficient Methods and Hardware for Deep Learning
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\lvoHnicueoE.md` — Lecture 14 | Deep Reinforcement Learning
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\nDPWywWRIRo.md` — Lecture 11 | Detection and Segmentation
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\OoUX-nOEjG0.md` — Lecture 2 | Image Classification
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\vT1JzLTH4G4.md` — Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition
+- `youtube\stanford-cs231n-cnns-for-visual-recognit\wEoyxE0GP2M.md` — Lecture 6 | Training Neural Networks I
+
+### stanford-cs236-deep-generative-models  (15 videos)
+- `youtube\stanford-cs236-deep-generative-models\3Zv-gokhLu8.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 9 - GANs
+- `youtube\stanford-cs236-deep-generative-models\8G-OsDs1RLI.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 13 - Score Based Models
+- `youtube\stanford-cs236-deep-generative-models\E69Lp_T9nVg.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 14 - Energy Based Models
+- `youtube\stanford-cs236-deep-generative-models\M3Fkvu78ZXc.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 10 - GANs
+- `youtube\stanford-cs236-deep-generative-models\m61KiAMCJ5Q.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 11 - Energy Based Models
+- `youtube\stanford-cs236-deep-generative-models\MAGBUh77bNg.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 5 - VAEs
+- `youtube\stanford-cs236-deep-generative-models\mCaRNnEnYwA.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 18 - Diffusion Models for Discrete Data
+- `youtube\stanford-cs236-deep-generative-models\MJt_ahtO-to.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 15 - Evaluation of Generative Models
+- `youtube\stanford-cs236-deep-generative-models\Nci1Bepcy0g.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 12 - Energy Based Models
+- `youtube\stanford-cs236-deep-generative-models\qgTvgBCOyn8.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 8 - Normalizing Flows
+- `youtube\stanford-cs236-deep-generative-models\rNEujZmD2Tg.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 2 - Background
+- `youtube\stanford-cs236-deep-generative-models\tRArbBf-AbI.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 3 - Autoregressive Models
+- `youtube\stanford-cs236-deep-generative-models\vBv7Mf1zsg8.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 17 - Discrete Latent Variable Models
+- `youtube\stanford-cs236-deep-generative-models\VsllsC2JMGY.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 16 - Score Based Diffusion Models
+- `youtube\stanford-cs236-deep-generative-models\XZ0PMRWXBEU.md` — Stanford CS236: Deep Generative Models I 2023 I Lecture 1 - Introduction
+
+### stanford-cs25-transformers-united  (39 videos)
+- `youtube\stanford-cs25-transformers-united\1GbDTTK3aR4.md` — Stanford CS25: V3 I How I Learned to Stop Worrying and Love the Transformer
+- `youtube\stanford-cs25-transformers-united\3gb-ZkVRemQ.md` — Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI
+- `youtube\stanford-cs25-transformers-united\AdLgPmcrXwQ.md` — Stanford CS25: V4 I Aligning Open Language Models
+- `youtube\stanford-cs25-transformers-united\BP5CM0YxbP8.md` — Stanford CS25: V1 I Transformers in Vision: Tackling problems in Computer Vision
+- `youtube\stanford-cs25-transformers-united\ckNMsUuLryM.md` — Stanford CS25: V3 I No Language Left Behind: Scaling Human-Centered Machine Translation
+- `youtube\stanford-cs25-transformers-united\ct4tdyyNDY4.md` — Stanford CS25: V2 I Robotics and Imitation Learning
+- `youtube\stanford-cs25-transformers-united\CYaju6aCMoQ.md` — Stanford CS25: V2 I Represent part-whole hierarchies in a neural network, Geoff Hinton
+- `youtube\stanford-cs25-transformers-united\DJ1Yy6Aquug.md` — Stanford CS25: V2 I Language and Human Alignment
+- `youtube\stanford-cs25-transformers-united\e_H_tkpCAK4.md` — Stanford CS25: Transformers United V6 I From Next-Token Prediction to Next-Generation Intelligence
+- `youtube\stanford-cs25-transformers-united\ebnX5Ur1hBk.md` — Stanford CS25: V5 I Large Language Model Reasoning, Denny Zhou of Google Deepmind
+- `youtube\stanford-cs25-transformers-united\fKMB5UlVY1E.md` — Stanford CS25: V4 I Overview of Transformers
+- `youtube\stanford-cs25-transformers-united\fz8wf9hN20c.md` — Stanford CS25: V3 I Low-level Embodied Intelligence w/ Foundation Models
+- `youtube\stanford-cs25-transformers-united\GBd7iuJkW08.md` — Stanford CS25: Transformers United V6 I From Representation Learning to World Modeling
+- `youtube\stanford-cs25-transformers-united\gLwiPrwUDJ8.md` — Stanford CS25: V5 I RL as a Co-Design of Product and Research, Karina Nguyen
+- `youtube\stanford-cs25-transformers-united\I5BKi32IEa8.md` — Stanford CS25: Transformers United V6 I The Ultra-Scale Talk: Scaling Training to Thousands of GPUs
+- `youtube\stanford-cs25-transformers-united\JKbtWimlzAE.md` — Stanford CS25: V5 I Overview of Transformers
+- `youtube\stanford-cs25-transformers-united\mcep6W8oB1I.md` — Stanford CS25: V3 I Recipe for Training Helpful Chatbots
+- `youtube\stanford-cs25-transformers-united\mE7IDf2SmJg.md` — Stanford CS25: V3 I Retrieval Augmented Language Models
+- `youtube\stanford-cs25-transformers-united\nz7_wg5iOlA.md` — Stanford CS25: V2 I Biomedical Transformers
+- `youtube\stanford-cs25-transformers-united\orDKvo8h71o.md` — Stanford CS25: V4 I Hyung Won Chung of OpenAI
+- `youtube\stanford-cs25-transformers-united\OyimE74UMF8.md` — Stanford CS25: Transformers United V6 I On the Tradeoffs of State Space Models and Transformers
+- `youtube\stanford-cs25-transformers-united\P127jhj-8-Y.md` — Stanford CS25: V1 I Transformers United: DL Models that have revolutionized NLP, CV, RL
+- `youtube\stanford-cs25-transformers-united\pC4zRb_5noQ.md` — Stanford CS25: V1 I Transformer Circuits, Induction Heads, In-Context Learning
+- `youtube\stanford-cs25-transformers-united\phWxl0nkgKk.md` — Stanford CS25: V2 I Strategic Games
+- `youtube\stanford-cs25-transformers-united\qGkzHFllWDY.md` — Stanford CS25: V1 I Transformers in Language: The development of GPT Models, GPT3
+- `youtube\stanford-cs25-transformers-united\RcJ1YXHLv5o.md` — Stanford CS25: V4 I Demystifying Mixtral of Experts
+- `youtube\stanford-cs25-transformers-united\sTQaJyrI-zg.md` — Stanford CS25: V2 I Common Sense Reasoning
+- `youtube\stanford-cs25-transformers-united\tVtOevLrt5U.md` — Stanford CS25: V2 I Emergent Abilities and Scaling in LLMs
+- `youtube\stanford-cs25-transformers-united\U8J32Z3qV8s.md` — Stanford CS25: V1 I Mixture of Experts (MoE) paradigm and the Switch Transformer
+- `youtube\stanford-cs25-transformers-united\vRQs7qfIDaU.md` — Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson of Anthropic
+- `youtube\stanford-cs25-transformers-united\vXtapCFctTI.md` — Stanford CS25: V5 I Transformers in Diffusion Models for Image Generation and Beyond
+- `youtube\stanford-cs25-transformers-united\w4Bw8WYL8Ps.md` — Stanford CS25: V1 I Decision Transformer: Reinforcement Learning via Sequence Modeling
+- `youtube\stanford-cs25-transformers-united\wTZ3o36lXoQ.md` — Stanford CS25: V1 I DeepMind's Perceiver and Perceiver IO: new data family architecture
+- `youtube\stanford-cs25-transformers-united\wvE2n8u3drA.md` — Stanford CS25: V1 I Audio Research: Transformers for Applications in Audio, Speech, Music
+- `youtube\stanford-cs25-transformers-united\wwQ1LQA3RCU.md` — Stanford CS25: V3 I Generalist Agents in Open-Ended Worlds
+- `youtube\stanford-cs25-transformers-united\XfpMkf4rD6E.md` — Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy
+- `youtube\stanford-cs25-transformers-united\ylEk1TE1uBo.md` — Stanford CS25: V3 I Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM
+- `youtube\stanford-cs25-transformers-united\zejXBg-2Vpk.md` — Stanford CS25: V1 I Self Attention and Non-parametric transformers (NPTs)
+- `youtube\stanford-cs25-transformers-united\zL9B3eXq0gY.md` — Stanford CS25: V4 I Transformers that Transform Well Enough to Support Near-Shallow Architectures
+
+### stanford-cs336-language-modeling-from-sc  (15 videos)
+- `youtube\stanford-cs336-language-modeling-from-sc\6OBtO9niT00.md` — Stanford CS336 I Language Modeling from Scratch | Spring 2025 | Lecture 5: GPUs
+- `youtube\stanford-cs336-language-modeling-from-sc\6Q-ESEmDf4Q.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 9: Scaling laws 1
+- `youtube\stanford-cs336-language-modeling-from-sc\9Cd0THLS1t0.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 14: Data 2
+- `youtube\stanford-cs336-language-modeling-from-sc\Dfu7vC9jo4w.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 15: Alignment - SFT/RLHF
+- `youtube\stanford-cs336-language-modeling-from-sc\E8Mju53VB00.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 6: Kernels, Triton
+- `youtube\stanford-cs336-language-modeling-from-sc\fcgPYo3OtV0.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 10: Inference
+- `youtube\stanford-cs336-language-modeling-from-sc\JdGFdViaOJk.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 17: Alignment - RL 2
+- `youtube\stanford-cs336-language-modeling-from-sc\l1RJcDjzK8M.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 7: Parallelism 1
+- `youtube\stanford-cs336-language-modeling-from-sc\LHpr5ytssLo.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 8: Parallelism 2
+- `youtube\stanford-cs336-language-modeling-from-sc\LPv1KfUXLCo.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 4: Mixture of experts
+- `youtube\stanford-cs336-language-modeling-from-sc\msHyYioAyNE.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lec. 2: Pytorch, Resource Accounting
+- `youtube\stanford-cs336-language-modeling-from-sc\ptFiH_bHnJw.md` — Stanford CS336 Lang. Modeling from Scratch | Spring 2025 | Lec. 3: Architectures, Hyperparameters
+- `youtube\stanford-cs336-language-modeling-from-sc\SQ3fZ1sAqXI.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview and Tokenization
+- `youtube\stanford-cs336-language-modeling-from-sc\WePxmeXU1xg.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 13: Data 1
+- `youtube\stanford-cs336-language-modeling-from-sc\x-R5l2HsXqM.md` — Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 12: Evaluation
+
+### yannic-kilcher-channel  (99 videos)
+- `youtube\yannic-kilcher-channel\-r0XPC7TLzY.md` — Safety Alignment Should be Made More Than Just a Few Tokens Deep (Paper Explained)
+- `youtube\yannic-kilcher-channel\-SWONSNzJGo.md` — Is Sam Altman coming back? (OpenAI drama continues)
+- `youtube\yannic-kilcher-channel\0A8ljAkdFtg.md` — ChatGPT: This AI has a JAILBREAK?! (Unbelievable AI Progress)
+- `youtube\yannic-kilcher-channel\0bpYCxv2qhw.md` — [Video Response] What Cloudflare's code mode misses about MCP and tool calling
+- `youtube\yannic-kilcher-channel\0OaEv1a5jUM.md` — xLSTM: Extended Long Short-Term Memory
+- `youtube\yannic-kilcher-channel\10nEx2-8J0M.md` — How Cyber Criminals Are Using ChatGPT (w/ Sergey Shykevich)
+- `youtube\yannic-kilcher-channel\2TlIZktYCf4.md` — What a day in AI! (Sora, Gemini 1.5, V-JEPA, and lots of news)
+- `youtube\yannic-kilcher-channel\2zW33LfffPc.md` — GPT-4 is here! What we know so far (Full Analysis)
+- `youtube\yannic-kilcher-channel\3a0_hAiFKag.md` — TransformerFAM: Feedback attention is working memory
+- `youtube\yannic-kilcher-channel\3N3Bl5AA5QU.md` — This is a game changer! (AlphaTensor by DeepMind explained)
+- `youtube\yannic-kilcher-channel\3nF8Z6HgSLQ.md` — [ML News] Groq, Gemma, Sora, Gemini, and Air Canada's chatbot troubles
+- `youtube\yannic-kilcher-channel\409tNlaByds.md` — Efficient Streaming Language Models with Attention Sinks (Paper Explained)
+- `youtube\yannic-kilcher-channel\4Cclp6yPDuw.md` — Scaling Transformer to 1M tokens and beyond with RMT (Paper Explained)
+- `youtube\yannic-kilcher-channel\52kMBrAI_IM.md` — ORPO: Monolithic Preference Optimization without Reference Model (Paper Explained)
+- `youtube\yannic-kilcher-channel\5bPBbQyLI7E.md` — [ML News] OpenAI is in hot waters (GPT-4o, Ilya Leaving, Scarlett Johansson legal action)
+- `youtube\yannic-kilcher-channel\64Izfm24FKA.md` — OpenAssistant - ChatGPT's Open Alternative (We need your help!)
+- `youtube\yannic-kilcher-channel\6OozhhI6U4g.md` — Open Assistant Inference Backend Development (Hands-On Coding)
+- `youtube\yannic-kilcher-channel\7NNxK3CqaDk.md` — Flow Matching for Generative Modeling (Paper Explained)
+- `youtube\yannic-kilcher-channel\7UkJPwz_N_0.md` — V-JEPA: Revisiting Feature Prediction for Learning Visual Representations from Video (Explained)
+- `youtube\yannic-kilcher-channel\9dSkvxS2EB0.md` — Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained)
+- `youtube\yannic-kilcher-channel\_NMQyOu2HTo.md` — ROME: Locating and Editing Factual Associations in GPT (Paper Explained & Author Interview)
+- `youtube\yannic-kilcher-channel\_okxGdHM5b8.md` — Neural Networks are Decision Trees (w/ Alexander Mattick)
+- `youtube\yannic-kilcher-channel\AfAmwIP2ntY.md` — Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters (Paper)
+- `youtube\yannic-kilcher-channel\B45FlSQ8ITo.md` — Scalable MatMul-free Language Modeling (Paper Explained)
+- `youtube\yannic-kilcher-channel\bAWV_yrqx4w.md` — [GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
+- `youtube\yannic-kilcher-channel\BMAu7hAcjqU.md` — Recipe AI suggests FATAL CHLORINE GAS Recipe
+- `youtube\yannic-kilcher-channel\Bs6eyNQjGpo.md` — GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models
+- `youtube\yannic-kilcher-channel\bXYLyDhcyWY.md` — Another Hit Piece on Open-Source AI
+- `youtube\yannic-kilcher-channel\ciNMc0Czmfc.md` — CICERO: An AI agent that negotiates, persuades, and cooperates with people
+- `youtube\yannic-kilcher-channel\cjs7QKJNVYM.md` — [ML News] Geoff Hinton leaves Google | Google has NO MOAT | OpenAI down half a billion
+- `youtube\yannic-kilcher-channel\cx3bbMf9LRA.md` — NeurIPS 2023 Poster Session 4 (Thursday Morning)
+- `youtube\yannic-kilcher-channel\ddG2fM9i4Kk.md` — OpenAssistant RELEASED! The world's best open-source Chat AI!
+- `youtube\yannic-kilcher-channel\dnTGn1EQqtQ.md` — [ML News] Grok-1 open-sourced | Nvidia GTC | OpenAI leaks model names | AI Act
+- `youtube\yannic-kilcher-channel\DRwwjifoVZU.md` — [ML News] Microsoft to spend 100 BILLION DOLLARS on supercomputer (& more industry news)
+- `youtube\yannic-kilcher-channel\E5OnoYF2oAk.md` — LLaMA: Open and Efficient Foundation Language Models (Paper Explained)
+- `youtube\yannic-kilcher-channel\ec56a8wmfRk.md` — Retentive Network: A Successor to Transformer for Large Language Models (Paper Explained)
+- `youtube\yannic-kilcher-channel\Fr6Teh_ox-8.md` — Gemini has a Diversity Problem
+- `youtube\yannic-kilcher-channel\FY5j3P9tCeA.md` — Text Embeddings Reveal (Almost) As Much As Text
+- `youtube\yannic-kilcher-channel\GBOE9fVVVSM.md` — No, Anthropic's Claude 3 is NOT sentient
+- `youtube\yannic-kilcher-channel\GFg98TDqCpw.md` — Greg & Sam are BACK! (+ Q-Star is AGI) (Also Memes)
+- `youtube\yannic-kilcher-channel\gfU5y7qCxF0.md` — TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters (Paper Explained)
+- `youtube\yannic-kilcher-channel\gqtmUHhaplo.md` — OpenAssistant is Completed
+- `youtube\yannic-kilcher-channel\GtveKYXYo_0.md` — [ML News] Devin exposed | NeurIPS track for high school students
+- `youtube\yannic-kilcher-channel\HbF-jx1jfw0.md` — NeurIPS 2023 Vendor Hall
+- `youtube\yannic-kilcher-channel\Hi6cbeBY2oQ.md` — OpenAssistant First Models are here! (Open-Source ChatGPT)
+- `youtube\yannic-kilcher-channel\hkAH7-u7t5k.md` — AGI is not coming!
+- `youtube\yannic-kilcher-channel\hpC4qjWu_aY.md` — Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)
+- `youtube\yannic-kilcher-channel\hW3OVWfndLw.md` — LLaMA Pro: Progressive LLaMA with Block Expansion (Paper Explained)
+- `youtube\yannic-kilcher-channel\I72_GJHzH3Y.md` — OpenAI suggests AI licenses (US Senate hearing on AI regulation w/ Sam Altman)
+- `youtube\yannic-kilcher-channel\igS2Wy8ur5U.md` — Is Stability turning into OpenAI?
+- `youtube\yannic-kilcher-channel\jE9jAZC42NE.md` — Were RNNs All We Needed? (Paper Explained)
+- `youtube\yannic-kilcher-channel\Kk8YhCpo1b8.md` — [ML News] Jamba, CMD-R+, and other new models (yes, I know this is like a week behind 🙃)
+- `youtube\yannic-kilcher-channel\KwpeuqT69fw.md` — Scalable Extraction of Training Data from (Production) Language Models (Paper Explained)
+- `youtube\yannic-kilcher-channel\kzB23CoZG30.md` — [ML News] Llama 3 changes the game
+- `youtube\yannic-kilcher-channel\loaTGpqfctI.md` — Byte Latent Transformer: Patches Scale Better Than Tokens (Paper Explained)
+- `youtube\yannic-kilcher-channel\mU3g2YPKlsA.md` — On the Biology of a Large Language Model (Part 1)
+- `youtube\yannic-kilcher-channel\Nao16-6l6dQ.md` — [Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)
+- `youtube\yannic-kilcher-channel\no7EQkOiHQM.md` — Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools (Paper Explained)
+- `youtube\yannic-kilcher-channel\nOBm4aYEYR4.md` — What is Q-Learning (back to basics)
+- `youtube\yannic-kilcher-channel\nvRZHWCBUdQ.md` — Art @ NeurIPS 2023
+- `youtube\yannic-kilcher-channel\oUqnvQm_k9M.md` — NeurIPS 2023 Poster Session 1 (Tuesday Evening)
+- `youtube\yannic-kilcher-channel\p6d-cMkVz7M.md` — NeurIPS 2023 Poster Session 2 (Wednesday Morning)
+- `youtube\yannic-kilcher-channel\Pl8BET_K1mc.md` — Lumiere: A Space-Time Diffusion Model for Video Generation (Paper Explained)
+- `youtube\yannic-kilcher-channel\PtfatBOlHIA.md` — Until the Litter End
+- `youtube\yannic-kilcher-channel\PW4JiJ-WaY4.md` — Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping (Searchformer)
+- `youtube\yannic-kilcher-channel\q1LrXH5_Oy0.md` — [ML News] Devin AI Software Engineer | GPT-4.5-Turbo LEAKED | US Gov't Report: Total Extinction
+- `youtube\yannic-kilcher-channel\r8wiBA3ZaQE.md` — [ML News] GPT-4 Rumors | AI Mind Reading | Neuron Interaction Solved | AI Theorem Proving
+- `youtube\yannic-kilcher-channel\r_UBBfTPcF0.md` — Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention
+- `youtube\yannic-kilcher-channel\RAEy3JZmIaA.md` — Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)
+- `youtube\yannic-kilcher-channel\rUf3ysohR6Q.md` — I built the most expensive CPU ever! (Every instruction is a prompt)
+- `youtube\yannic-kilcher-channel\S-7r0-oysaU.md` — [ML News] OpenAI's Whisper | Meta Reads Brain Waves | AI Wins Art Fair, Annoys Humans
+- `youtube\yannic-kilcher-channel\taCVT5vDAk0.md` — TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)
+- `youtube\yannic-kilcher-channel\Tkijsu129M0.md` — [ML News] GPT-4 solves MIT Exam with 100% ACCURACY | OpenLLaMA 13B released
+- `youtube\yannic-kilcher-channel\tkX0EfNl4Fc.md` — Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution (Paper Explained)
+- `youtube\yannic-kilcher-channel\TOo-HnjjuhU.md` — [ML News] Multiplayer Stable Diffusion | OpenAI needs more funding | Text-to-Video models incoming
+- `youtube\yannic-kilcher-channel\tRavLU8Ih4A.md` — [ML News] Chips, Robots, and Models
+- `youtube\yannic-kilcher-channel\ut5kp56wW_4.md` — Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review)
+- `youtube\yannic-kilcher-channel\UXdM7pjYZfs.md` — DeepFloyd IF - Pixel-Based Text-to-Image Diffusion (w/ Authors)
+- `youtube\yannic-kilcher-channel\V4dO2pyYGgs.md` — Reinforced Self-Training (ReST) for Language Modeling (Paper Explained)
+- `youtube\yannic-kilcher-channel\v67plFw1nMw.md` — Titans: Learning to Memorize at Test Time (Paper Analysis)
+- `youtube\yannic-kilcher-channel\V71AJoYAtBQ.md` — On the Biology of a Large Language Model (Part 2)
+- `youtube\yannic-kilcher-channel\v8O_tSF_o50.md` — I created an AI-powered Social Network
+- `youtube\yannic-kilcher-channel\W5M-dvzpzSQ.md` — The New AI Model Licenses have a Legal Loophole (OpenRAIL-M of BLOOM, Stable Diffusion, etc.)
+- `youtube\yannic-kilcher-channel\WncUlZYpdq4.md` — Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust (Explained)
+- `youtube\yannic-kilcher-channel\WwbukAcMM4k.md` — Privacy Backdoors: Stealing Data with Corrupted Pretrained Models (Paper Explained)
+- `youtube\yannic-kilcher-channel\x8pW19wKfXQ.md` — RWKV: Reinventing RNNs for the Transformer Era (Paper Explained)
+- `youtube\yannic-kilcher-channel\xbxe-x6wvRw.md` — [ML News] Stable Diffusion Takes Over! (Open Source AI Art)
+- `youtube\yannic-kilcher-channel\xHi8PUIVyoo.md` — I BUILT A FULLY AUTOMATIC MANSPLAINER
+- `youtube\yannic-kilcher-channel\xs-0cp1hSnY.md` — [ML News] LLaMA2 Released | LLMs for Robots | Multimodality on the Rise
+- `youtube\yannic-kilcher-channel\YiS1cJU2zS8.md` — OpenAI just fired CEO Sam Altman
+- `youtube\yannic-kilcher-channel\YOyr9Bhhaq0.md` — [ML News] Elon sues OpenAI | Mistral Large | More Gemini Drama
+- `youtube\yannic-kilcher-channel\YqPYDWPYXFs.md` — The biggest week in AI (GPT-4, Office Copilot, Google PaLM, Anthropic Claude & more)
+- `youtube\yannic-kilcher-channel\yR4hNBNS6yc.md` — This ChatGPT Skill will earn you $10B (also, AI reads your mind!) | ML News
+- `youtube\yannic-kilcher-channel\ZcoOW8nqVP8.md` — Hugging Face got hacked
+- `youtube\yannic-kilcher-channel\zKohTkN0Fyk.md` — [Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)
+- `youtube\yannic-kilcher-channel\zn7nLR58hBk.md` — NeurIPS 2023 Poster Session 3 (Wednesday Evening)
+- `youtube\yannic-kilcher-channel\ZNK4nfgNQpM.md` — AlphaGeometry: Solving olympiad geometry without human demonstrations (Paper Explained)
+- `youtube\yannic-kilcher-channel\ZTs_mXwMCs8.md` — Galactica: A Large Language Model for Science (Drama & Paper Review)
+- `youtube\yannic-kilcher-channel\zut38E-BHH0.md` — Did Google fake their Gemini Video?
+
+## Papers (78)
+
+- `papers\1207.0580.md` — Improving neural networks by preventing co-adaptation of feature detectors
+- `papers\1301.3781.md` — Efficient Estimation of Word Representations in Vector Space
+- `papers\1310.4546.md` — Distributed Representations of Words and Phrases and their Compositionality
+- `papers\1312.6114.md` — Auto-Encoding Variational Bayes
+- `papers\1406.2661.md` — Generative Adversarial Networks
+- `papers\1409.0473.md` — Neural Machine Translation by Jointly Learning to Align and Translate
+- `papers\1409.1556.md` — Very Deep Convolutional Networks for Large-Scale Image Recognition
+- `papers\1409.3215.md` — Sequence to Sequence Learning with Neural Networks
+- `papers\1409.4842.md` — Going Deeper with Convolutions
+- `papers\1412.6980.md` — Adam: A Method for Stochastic Optimization
+- `papers\1502.03167.md` — Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+- `papers\1506.01497.md` — Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+- `papers\1512.03385.md` — Deep Residual Learning for Image Recognition
+- `papers\1607.06450.md` — Layer Normalization
+- `papers\1608.06993.md` — Densely Connected Convolutional Networks
+- `papers\1701.06538.md` — Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
+- `papers\1706.03762.md` — Attention Is All You Need
+- `papers\1707.06347.md` — Proximal Policy Optimization Algorithms
+- `papers\1711.00937.md` — Neural Discrete Representation Learning
+- `papers\1804.02767.md` — YOLOv3: An Incremental Improvement
+- `papers\1810.04805.md` — BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- `papers\1812.04948.md` — A Style-Based Generator Architecture for Generative Adversarial Networks
+- `papers\1907.11692.md` — RoBERTa: A Robustly Optimized BERT Pretraining Approach
+- `papers\1910.10683.md` — Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+- `papers\1911.02150.md` — Fast Transformer Decoding: One Write-Head is All You Need
+- `papers\2001.04451.md` — Reformer: The Efficient Transformer
+- `papers\2001.08361.md` — Scaling Laws for Neural Language Models
+- `papers\2004.04906.md` — Dense Passage Retrieval for Open-Domain Question Answering
+- `papers\2004.05150.md` — Longformer: The Long-Document Transformer
+- `papers\2005.11401.md` — Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+- `papers\2005.12872.md` — End-to-End Object Detection with Transformers
+- `papers\2005.14165.md` — Language Models are Few-Shot Learners
+- `papers\2006.04768.md` — Linformer: Self-Attention with Linear Complexity
+- `papers\2006.11239.md` — Denoising Diffusion Probabilistic Models
+- `papers\2009.03300.md` — Measuring Massive Multitask Language Understanding
+- `papers\2009.14794.md` — Rethinking Attention with Performers
+- `papers\2010.02502.md` — Denoising Diffusion Implicit Models
+- `papers\2010.11929.md` — An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+- `papers\2101.03961.md` — Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
+- `papers\2103.00020.md` — Learning Transferable Visual Models From Natural Language Supervision
+- `papers\2104.09864.md` — RoFormer: Enhanced Transformer with Rotary Position Embedding
+- `papers\2106.09685.md` — LoRA: Low-Rank Adaptation of Large Language Models
+- `papers\2107.03374.md` — Evaluating Large Language Models Trained on Code
+- `papers\2108.12409.md` — Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation
+- `papers\2111.06377.md` — Masked Autoencoders Are Scalable Vision Learners
+- `papers\2112.10752.md` — High-Resolution Image Synthesis with Latent Diffusion Models
+- `papers\2201.11903.md` — Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+- `papers\2203.02155.md` — Training language models to follow instructions with human feedback
+- `papers\2203.11171.md` — Self-Consistency Improves Chain of Thought Reasoning in Language Models
+- `papers\2203.15556.md` — Training Compute-Optimal Large Language Models
+- `papers\2204.06125.md` — Hierarchical Text-Conditional Image Generation with CLIP Latents
+- `papers\2205.14135.md` — FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
+- `papers\2206.04615.md` — Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models
+- `papers\2208.07339.md` — LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale
+- `papers\2210.03629.md` — ReAct: Synergizing Reasoning and Acting in Language Models
+- `papers\2210.17323.md` — GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers
+- `papers\2212.09748.md` — Scalable Diffusion Models with Transformers
+- `papers\2302.01318.md` — Accelerating Large Language Model Decoding with Speculative Sampling
+- `papers\2302.04761.md` — Toolformer: Language Models Can Teach Themselves to Use Tools
+- `papers\2302.13971.md` — LLaMA: Open and Efficient Foundation Language Models
+- `papers\2305.10601.md` — Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+- `papers\2305.13245.md` — GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
+- `papers\2305.14314.md` — QLoRA: Efficient Finetuning of Quantized LLMs
+- `papers\2305.18290.md` — Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+- `papers\2306.00978.md` — AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+- `papers\2307.08691.md` — FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning
+- `papers\2307.09288.md` — Llama 2: Open Foundation and Fine-Tuned Chat Models
+- `papers\2309.06180.md` — Efficient Memory Management for Large Language Model Serving with PagedAttention
+- `papers\2310.06825.md` — Mistral 7B
+- `papers\2312.00752.md` — Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+- `papers\2401.04088.md` — Mixtral of Experts
+- `papers\2404.02258.md` — Mixture-of-Depths: Dynamically allocating compute in transformer-based language models
+- `papers\2405.04434.md` — DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
+- `papers\2405.21060.md` — Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
+- `papers\2407.08608.md` — FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision
+- `papers\2412.19437.md` — DeepSeek-V3 Technical Report
+- `papers\2501.12948.md` — DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+- `papers\2502.11089.md` — Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention
+
+## Web
+
+### cs231ngithubio  (8 articles)
+- `web\cs231ngithubio\cs231n-backpropagation-intuitions.md` — CS231n Deep Learning for Computer Vision
+- `web\cs231ngithubio\cs231n-convolutional-networks.md` — CS231n Deep Learning for Computer Vision
+- `web\cs231ngithubio\cs231n-linear-classification.md` — CS231n Deep Learning for Computer Vision
+- `web\cs231ngithubio\cs231n-neural-networks-part-1.md` — CS231n Deep Learning for Computer Vision
+- `web\cs231ngithubio\cs231n-neural-networks-part-2.md` — CS231n Deep Learning for Computer Vision
+- `web\cs231ngithubio\cs231n-neural-networks-part-3-learning.md` — CS231n Deep Learning for Computer Vision
+- `web\cs231ngithubio\cs231n-optimization.md` — CS231n Deep Learning for Computer Vision
+- `web\cs231ngithubio\cs231n-rnn.md` — CS231n Deep Learning for Computer Vision
+
+### d2lai  (6 articles)
+- `web\d2lai\d2l-attention.md` — 11. Attention Mechanisms and Transformers
+- `web\d2lai\d2l-cnn.md` — 7. Convolutional Neural Networks
+- `web\d2lai\d2l-linear-nn-regression.md` — 3. Linear Neural Networks for Regression
+- `web\d2lai\d2l-mlp.md` — Dive into Deep Learning 1.0.3 documentation
+- `web\d2lai\d2l-preliminaries.md` — Dive into Deep Learning 1.0.3 documentation
+- `web\d2lai\d2l-rnn.md` — 9. Recurrent Neural Networks
+
+### distillpub  (3 articles)
+- `web\distillpub\distill-a-gentle-introduction-to-graph-neural-networks.md` — A Gentle Introduction to Graph Neural Networks
+- `web\distillpub\distill-building-blocks-of-interpretability.md` — The Building Blocks of Interpretability
+- `web\distillpub\distill-understanding-convolutions-on-graphs.md` — Understanding Convolutions on Graphs
+
+### jalammargithubio  (5 articles)
+- `web\jalammargithubio\jay-alammar-the-illustrated-bert.md` — The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
+- `web\jalammargithubio\jay-alammar-the-illustrated-gpt-2.md` — The Illustrated GPT-2 (Visualizing Transformer Language Models)
+- `web\jalammargithubio\jay-alammar-the-illustrated-stable-diffusion.md` — The Illustrated Stable Diffusion
+- `web\jalammargithubio\jay-alammar-the-illustrated-transformer.md` — The Illustrated Transformer
+- `web\jalammargithubio\jay-alammar-visualizing-a-neural-machine-translation-model.md` — Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)
+
+### karpathygithubio  (2 articles)
+- `web\karpathygithubio\karpathy-a-recipe-for-training-neural-networks.md` — A Recipe for Training Neural Networks
+- `web\karpathygithubio\karpathy-unreasonable-effectiveness-of-rnns.md` — The Unreasonable Effectiveness of Recurrent Neural Networks
+
+### karpathymediumcom  (1 articles)
+- `web\karpathymediumcom\karpathy-yes-you-should-understand-backprop.md` — Yes you should understand backprop
+
+### lilianwenggithubio  (8 articles)
+- `web\lilianwenggithubio\lilian-weng-attention-attention.md` — Attention? Attention!
+- `web\lilianwenggithubio\lilian-weng-from-autoencoder-to-beta-vae.md` — From Autoencoder to Beta-VAE
+- `web\lilianwenggithubio\lilian-weng-from-gan-to-wgan.md` — From GAN to WGAN
+- `web\lilianwenggithubio\lilian-weng-llm-powered-autonomous-agents.md` — LLM Powered Autonomous Agents
+- `web\lilianwenggithubio\lilian-weng-prompt-engineering.md` — Prompt Engineering
+- `web\lilianwenggithubio\lilian-weng-rl-overview.md` — Policy Gradient Algorithms
+- `web\lilianwenggithubio\lilian-weng-the-transformer-family-v2.md` — The Transformer Family Version 2.0
+- `web\lilianwenggithubio\lilian-weng-what-are-diffusion-models.md` — What are Diffusion Models?
+
+### magazinesebastianraschkacom  (3 articles)
+- `web\magazinesebastianraschkacom\raschka-lora-from-scratch.md` — Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch
+- `web\magazinesebastianraschkacom\raschka-understanding-large-language-models.md` — Understanding Large Language Models
+- `web\magazinesebastianraschkacom\raschka-understanding-reasoning-llms.md` — Understanding Reasoning LLMs
+
+### transformer-circuitspub  (2 articles)
+- `web\transformer-circuitspub\anthropic-mathematical-framework-for-transformer-circuits.md` — A Mathematical Framework for Transformer Circuits
+- `web\transformer-circuitspub\anthropic-toy-models-of-superposition.md` — Toy Models of Superposition
+

@@ -1,0 +1,27 @@
+---
+title: "3. Linear Neural Networks for Regression"
+source: "web"
+url: "https://d2l.ai/chapter_linear-regression/index.html"
+domain: "d2l.ai"
+name: "d2l - Linear NN Regression"
+fetched_at: "2026-05-26T23:30:13Z"
+topics: ["regression"]
+---
+
+# 3. Linear Neural Networks for Regression Â¶
+
+Before we worry about making our neural networks deep, it will be
+helpful to implement some shallow ones, for which the inputs connect
+directly to the outputs. This will prove important for a few reasons.
+First, rather than getting distracted by complicated architectures, we
+can focus on the basics of neural network training, including
+parametrizing the output layer, handling data, specifying a loss
+function, and training the model. Second, this class of shallow networks
+happens to comprise the set of linear models, which subsumes many
+classical methods of statistical prediction, including linear and
+softmax regression. Understanding these classical tools is pivotal
+because they are widely used in many contexts and we will often need to
+use them as baselines when justifying the use of fancier architectures.
+This chapter will focus narrowly on linear regression and the next one
+will extend our modeling repertoire by developing linear neural networks
+for classification.

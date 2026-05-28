@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# Python (if anyone adds tooling)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Local archive (kept out of the published repo)
+_archive/
