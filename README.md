@@ -69,7 +69,7 @@ Full transcripts from the most respected ML courses and educators:
 | Stanford CS336 — Language Modeling from Scratch | 15 |
 | Stanford CS236 — Deep Generative Models | 15 |
 | Stanford CS231n — CNNs for Visual Recognition | 14 |
-| Stanford CS230 — Deep Learning | 9 |
+| Stanford CS230 — Deep Learning (Andrew Ng) | 9 |
 | Andrej Karpathy — channel + Neural Networks: Zero to Hero | 25 |
 | 3Blue1Brown — Neural Networks series | 9 |
 
