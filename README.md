@@ -2,13 +2,16 @@
 
 **A hand-curated, machine-readable library (a curated ML corpus / dataset) of the best machine-learning education on the internet — top university courses, canonical research papers, and the most-cited explainer blogs — normalized into one consistent Markdown format with full provenance.**
 
-590 documents · ~10 million tokens · beginner to frontier research · every source credited.
+923 documents · ~11 million tokens · beginner to frontier (2026) research · every source credited.
 
-![docs](https://img.shields.io/badge/documents-590-blue)
-![tokens](https://img.shields.io/badge/tokens-~10M-green)
-![papers](https://img.shields.io/badge/arXiv_papers-78-orange)
+![docs](https://img.shields.io/badge/documents-923-blue)
+![tokens](https://img.shields.io/badge/tokens-~11M-green)
+![papers](https://img.shields.io/badge/arXiv_papers-391-orange)
 ![lectures](https://img.shields.io/badge/lectures-474-red)
-![articles](https://img.shields.io/badge/articles-38-purple)
+![articles](https://img.shields.io/badge/articles-58-purple)
+![topics](https://img.shields.io/badge/topics-17-blueviolet)
+
+> **🆕 Now topic-organized, Obsidian-ready, and agent-ready.** Every doc is tagged into a 17-topic map ([`atlas/`](atlas/)); open the folder as a turnkey **Obsidian vault** (bundled config + graph), or point **Claude Code / Cursor / any agent** at it and it answers ML questions citing real papers and lectures. → [**Open in Obsidian / connect your agent**](#open-in-obsidian--connect-your-agent)
 
 ---
 
@@ -26,23 +29,24 @@ It's designed to be **used by both humans and machines**: read it directly to le
 
 | | |
 |---|---|
-| **Total documents** | 590 |
-| **Total size** | ~41M characters (~10M tokens) |
-| **arXiv papers** | 78 (full text) |
+| **Total documents** | 923 |
+| **Total size** | ~42M characters (~11M tokens) |
+| **arXiv papers** | 391 (78 full-text + 313 recent abstract+metadata) |
 | **Lecture transcripts** | 474 (across 14 courses/channels) |
-| **Web articles** | 38 (canonical explainers) |
+| **Web articles** | 58 (canonical explainers) |
+| **Topic tags** | 17-topic controlled vocabulary (+ level / medium / task / technique facets) |
 | **Format** | Markdown + YAML frontmatter |
-| **Coverage** | Intro fundamentals → frontier 2025 research |
+| **Coverage** | Intro fundamentals → frontier 2025–2026 research |
 
-Every file begins with structured frontmatter (title, source, URL, authors, date, topics) so the whole corpus is trivially filterable and parseable.
+Every file begins with structured frontmatter (title, source, URL, authors, date, topics, **controlled `tags`**, `aliases`) so the whole corpus is trivially filterable and parseable — and navigable by topic (see [`atlas/`](atlas/) and [`atlas/TAGS.md`](atlas/TAGS.md)).
 
 ---
 
 ## What's inside
 
-### Research papers (`corpus/papers/` — 78)
+### Research papers (`corpus/papers/` — 391)
 
-Full text of the canonical papers, foundational to frontier:
+The 78 canonical papers in **full text**, plus **313 recent (2024H2–2026)** papers added as the **verbatim abstract + metadata** (with a link to the full paper). Foundational to frontier:
 
 - **Foundations** — Dropout, word2vec, Seq2Seq, Adam, Batch/Layer Norm, VAE, GANs
 - **Vision** — VGG, GoogLeNet, ResNet, DenseNet, Faster R-CNN, YOLOv3, ViT, MAE, DETR
@@ -52,6 +56,7 @@ Full text of the canonical papers, foundational to frontier:
 - **LLMs & alignment** — LLaMA 1/2, Mistral, Mixtral, InstructGPT/RLHF, DPO, LoRA/QLoRA/DoRA, GPTQ/AWQ/LLM.int8()
 - **Reasoning & agents** — Chain-of-Thought, Self-Consistency, Tree of Thoughts, ReAct, Toolformer
 - **Frontier (2024–2025)** — Mamba, State-Space Duality, Mixture-of-Depths, DeepSeek V2/V3/R1, Native Sparse Attention
+- **Newly added (2025–2026)** — Titans, RWKV-7, Gated DeltaNet, Mamba-3 & hybrid linear attention; reasoning & test-time compute (RLVR, GRPO-line); BitNet / FP4 quantization; diffusion language models; video/image generation; VLMs; LLM agents & RAG; SAE / attribution-graph interpretability; world models; vision-language-action robotics; frontier model reports; AI-for-science
 
 ### Lecture transcripts (`corpus/youtube/` — 474)
 
@@ -73,7 +78,7 @@ Full transcripts from the most respected ML courses and educators:
 | Andrej Karpathy — channel + Neural Networks: Zero to Hero | 25 |
 | 3Blue1Brown — Neural Networks series | 9 |
 
-### Web articles (`corpus/web/` — 38)
+### Web articles (`corpus/web/` — 58)
 
 The explainers practitioners actually link to: Jay Alammar's *Illustrated* series, Lilian Weng's deep-dives, Sebastian Raschka, the Stanford CS231n notes, *Dive into Deep Learning*, Distill.pub, Anthropic's Transformer Circuits, and Karpathy's blog.
 
