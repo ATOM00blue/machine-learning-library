@@ -94,9 +94,9 @@ machine-learning-library/
 ├── AGENTS.md / CLAUDE.md      ← how an AI agent should navigate & cite this corpus
 ├── corpus/
 │   ├── INDEX.md               ← machine-generated index of all 923 files
-│   ├── papers/                ← 78 arXiv papers (full text + metadata)
+│   ├── papers/                ← 391 arXiv papers (78 full-text + 313 abstract+metadata)
 │   ├── youtube/               ← 474 lecture transcripts, grouped by channel
-│   └── web/                   ← 38 articles, grouped by domain
+│   └── web/                   ← 58 articles, grouped by domain
 ├── atlas/                     ← topic navigation layer (Maps of Content + learning paths)
 │   ├── Home.md                ← start here when browsing in Obsidian
 │   ├── TAGS.md                ← the controlled tag vocabulary
@@ -143,7 +143,7 @@ This corpus is a building block. Some of the things it's good for:
 
 1. **Retrieval-augmented ML tutor.** Embed the corpus, drop it in a vector DB, and build a Q&A assistant that answers ML questions grounded in real sources — and can cite the exact lecture or paper it drew from. No hallucinated references.
 
-2. **Fine-tuning a domain model.** ~10M tokens of clean, on-topic ML text is a realistic dataset for continued-pretraining or instruction-tuning a small (1–7B) "ML explainer" model.
+2. **Fine-tuning a domain model.** ~11M tokens of clean, on-topic ML text is a realistic dataset for continued-pretraining or instruction-tuning a small (1–7B) "ML explainer" model.
 
 3. **Embeddings / retrieval benchmark.** A coherent, single-domain corpus is ideal for evaluating embedding models and retrieval pipelines on technical content.
 

@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This repository is a curated ML education corpus (590 Markdown docs: arXiv
+This repository is a curated ML education corpus (923 Markdown docs: arXiv
 papers, lecture transcripts, explainer articles), each with structured YAML
 frontmatter.
 

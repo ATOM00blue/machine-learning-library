@@ -1,11 +1,11 @@
 ---
 name: ml-library
-description: Retrieve and cite from this machine-learning education corpus (590 docs — arXiv papers, course lectures, explainer articles). Use when the user asks an ML/deep-learning question, wants to learn a topic, asks for sources/papers/lectures on a concept, or wants a study path grounded in this repo.
+description: Retrieve and cite from this machine-learning education corpus (923 docs — arXiv papers, course lectures, explainer articles). Use when the user asks an ML/deep-learning question, wants to learn a topic, asks for sources/papers/lectures on a concept, or wants a study path grounded in this repo.
 ---
 
 # Retrieving from the ML library corpus
 
-This repo holds 590 Markdown docs under `corpus/` (papers/, youtube/, web/), each
+This repo holds 923 Markdown docs under `corpus/` (papers/, youtube/, web/), each
 with YAML frontmatter (`title`, `url`, `tags`, …). Your job: answer ML questions
 **grounded in these documents, with citations** — never from memory alone.
 

@@ -1,7 +1,7 @@
 # Agent guide — machine-learning-library
 
-This repo is a **curated, machine-readable corpus of ML education**: 590 Markdown
-documents (~10M tokens) — research papers, course lecture transcripts, and
+This repo is a **curated, machine-readable corpus of ML education**: 923 Markdown
+documents (~11M tokens) — research papers, course lecture transcripts, and
 canonical explainer articles — each with structured YAML frontmatter. This file
 tells an AI agent how to navigate and retrieve from it. (Read by Cursor, Codex,
 Copilot, Gemini CLI, Aider, Zed, etc. Claude Code reads `CLAUDE.md`, which points
@@ -11,9 +11,9 @@ here.)
 
 ```
 corpus/
-├── papers/    78 docs   — arXiv papers, full text. Filename = arXiv id (1706.03762.md)
+├── papers/   391 docs   — arXiv papers (78 full text + 313 abstract+metadata). Filename = arXiv id (1706.03762.md)
 ├── youtube/  474 docs   — lecture transcripts, grouped by course/channel. Filename = video id
-└── web/       38 docs   — explainer articles, grouped by domain
+└── web/       58 docs   — explainer articles, grouped by domain
 corpus/INDEX.md          — master list of every doc with its title
 atlas/                   — human/topic navigation layer (Maps of Content per topic)
 atlas/TAGS.md            — the controlled tag vocabulary (authoritative)
