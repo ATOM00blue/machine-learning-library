@@ -6,6 +6,8 @@ domain: "lilianweng.github.io"
 name: "Lilian Weng - From GAN to WGAN"
 fetched_at: "2026-05-26T23:29:50Z"
 topics: ["gan"]
+aliases: ["From GAN to WGAN"]
+tags: [topic/generative-models, level/intermediate, medium/article, task/general, technique/gan]
 ---
 
 [Updated on 2018-09-30: thanks to Yoonju, we have this post translated in Korean !] [Updated on 2019-04-18: this post is also available on arXiv .]

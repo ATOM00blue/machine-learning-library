@@ -6,6 +6,8 @@ domain: "lilianweng.github.io"
 name: "Lilian Weng - The Transformer Family v2"
 fetched_at: "2026-05-26T23:29:43Z"
 topics: ["transformer"]
+aliases: ["The Transformer Family Version 2.0"]
+tags: [topic/transformers-attention, level/intermediate, medium/article, task/language, technique/transformer]
 ---
 
 Many new Transformer architecture improvements have been proposed since my last post on “The Transformer Family” about three years ago. Here I did a big refactoring and enrichment of that 2020 post — restructure the hierarchy of sections and improve many sections with more recent papers. Version 2.0 is a superset of the old version, about twice the length.

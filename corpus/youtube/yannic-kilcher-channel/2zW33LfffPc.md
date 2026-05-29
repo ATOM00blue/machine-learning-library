@@ -9,6 +9,8 @@ duration_sec: 2050.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:03:37Z"
 topics: []
+aliases: ["GPT-4 is here! What we know so far (Full Analysis)"]
+tags: [topic/ai-industry-news, topic/language-models, level/intermediate, medium/lecture, task/general, task/language, technique/rlhf, technique/transformer]
 ---
 
 [0:00] all right it's finally here gpt4 has been released and the amount of gbt in this one is truly mind blowing it's almost four as you can see in this graphic so thanks to the Discord members for this meme we're gonna get into gpt4 into their release into their technical report or is it a paper or is it a research report one doesn't know um we're gonna get into what openai released what gpt4 can do and the

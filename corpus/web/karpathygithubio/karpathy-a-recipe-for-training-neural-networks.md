@@ -6,6 +6,8 @@ domain: "karpathy.github.io"
 name: "Karpathy - A Recipe for Training Neural Networks"
 fetched_at: "2026-05-26T22:02:11Z"
 topics: ["training-practical"]
+aliases: ["A Recipe for Training Neural Networks"]
+tags: [topic/neural-network-foundations, level/intermediate, medium/article, task/general]
 ---
 
 Some few weeks ago I posted a tweet on “the most common neural net mistakes”, listing a few common gotchas related to training neural nets. The tweet got quite a bit more engagement than I anticipated (including a webinar :)). Clearly, a lot of people have personally encountered the large gap between “here is how a convolutional layer works” and “our convnet achieves state of the art results”.

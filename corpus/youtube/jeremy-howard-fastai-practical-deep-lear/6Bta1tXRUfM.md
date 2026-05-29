@@ -9,6 +9,8 @@ duration_sec: 5204.0
 language: "en-en"
 fetched_at: "2026-05-26T23:06:49Z"
 topics: []
+aliases: ["Lesson 22: Deep Learning Foundations to Stable Diffusion", "Lesson 22"]
+tags: [topic/generative-models, level/intermediate, medium/lecture, task/general, technique/diffusion]
 ---
 
 [0:00] JEREMY: All right, hi gang, and&nbsp;&nbsp; here we are in Lesson 21, joined by the&nbsp; legends themselves, Johno and Tanishq. Hello. TANISHQ: Hello. JEREMY: And today you'll be shocked to hear&nbsp; that we are going to look at a Jupyter Notebook.&nbsp;&nbsp; Amazing, right? We're going to look at notebook&nbsp; 22. This is a pretty quick, just, you know,&nbsp;&nbsp;

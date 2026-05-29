@@ -6,6 +6,8 @@ domain: "d2l.ai"
 name: "d2l - MLP"
 fetched_at: "2026-05-26T23:30:15Z"
 topics: ["mlp"]
+aliases: ["Dive into Deep Learning 1.0.3 documentation"]
+tags: [topic/neural-network-foundations, level/intermediate, medium/article, task/general, technique/mlp]
 ---
 
 Title 

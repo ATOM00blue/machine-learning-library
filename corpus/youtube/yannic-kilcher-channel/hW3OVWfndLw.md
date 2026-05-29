@@ -9,6 +9,8 @@ duration_sec: 1905.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:00:47Z"
 topics: []
+aliases: ["LLaMA Pro: Progressive LLaMA with Block Expansion (Paper Explained)", "LLaMA Pro"]
+tags: [topic/language-models, topic/efficient-architectures, level/advanced, medium/lecture, task/language, technique/transformer, technique/lora-peft]
 ---
 
 [0:00] hello there today we'll look at llama Pro Progressive llama with block expansion this paper takes a llama large language model specifically a llama 7B and adds some layers to it now they do two things in that way first they add layers in order to teach it new stuff and second they don't want it to forget all the stuff it already learned so this is a method that is going to allow for

@@ -9,6 +9,8 @@ duration_sec: 1652.0
 language: "en-orig"
 fetched_at: "2026-05-26T22:59:15Z"
 topics: []
+aliases: ["[ML News] Jamba, CMD-R+, and other new models (yes, I know this is like a week behind 🙃)"]
+tags: [topic/ai-industry-news, level/intermediate, medium/lecture, task/general, technique/moe, technique/ssm]
 ---
 
 [0:00] helloo everyone I hope you're having a wonderful Monday today we're going to dive into some new models that came out in the last 2 weeks it's an exciting time and the first one is AI 22 labs's Jamba model this is a hybrid model between the Mamba architecture and if you don't know what a Mamba is it's essentially an evolution of State space models which is sort of like a recurrent neural network but not really because

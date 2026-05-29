@@ -6,6 +6,8 @@ domain: "lilianweng.github.io"
 name: "Lilian Weng - Prompt Engineering"
 fetched_at: "2026-05-26T23:29:46Z"
 topics: ["prompting"]
+aliases: ["Prompt Engineering"]
+tags: [topic/reasoning-agents, topic/ml-engineering, level/intermediate, medium/article, task/language, task/general]
 ---
 
 Prompt Engineering , also known as In-Context Prompting , refers to methods for how to communicate with LLM to steer its behavior for desired outcomes without updating the model weights. It is an empirical science and the effect of prompt engineering methods can vary a lot among models, thus requiring heavy experimentation and heuristics.

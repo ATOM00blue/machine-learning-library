@@ -6,6 +6,8 @@ domain: "magazine.sebastianraschka.com"
 name: "Raschka - Understanding Reasoning LLMs"
 fetched_at: "2026-05-26T23:30:00Z"
 topics: ["reasoning"]
+aliases: ["Understanding Reasoning LLMs"]
+tags: [topic/reasoning-agents, topic/language-models, level/intermediate, medium/article, task/language]
 ---
 
 This article describes the four main approaches to building reasoning models, or how we can enhance LLMs with reasoning capabilities. I hope this provides valuable insights and helps you navigate the rapidly evolving literature and hype surrounding this topic.

@@ -6,6 +6,8 @@ domain: "lilianweng.github.io"
 name: "Lilian Weng - RL Overview"
 fetched_at: "2026-05-26T23:29:51Z"
 topics: ["rl"]
+aliases: ["Policy Gradient Algorithms"]
+tags: [topic/reinforcement-learning, level/intermediate, medium/article, task/rl-control]
 ---
 
 [Updated on 2018-06-30: add two new policy gradient methods, SAC and D4PG .] [Updated on 2018-09-30: add a new policy gradient method, TD3 .] [Updated on 2019-02-09: add SAC with automatically adjusted temperature ]. [Updated on 2019-06-26: Thanks to Chanseok, we have a version of this post in Korean ]. [Updated on 2019-09-12: add a new policy gradient method SVPG .] [Updated on 2019-12-22: add a new policy gradient method IMPALA .] [Updated on 2020-10-15: add a new policy gradient method PPG & some new discussion in PPO .] [Updated on 2021-09-19: Thanks to Wenhao & 爱吃猫的鱼, we have this post in Chinese1 & Chinese2 ].

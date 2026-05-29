@@ -6,6 +6,8 @@ domain: "d2l.ai"
 name: "d2l - Preliminaries"
 fetched_at: "2026-05-26T23:30:11Z"
 topics: ["foundations"]
+aliases: ["Dive into Deep Learning 1.0.3 documentation"]
+tags: [topic/neural-network-foundations, level/intermediate, medium/article, task/general]
 ---
 
 # 2. Preliminaries Â¶

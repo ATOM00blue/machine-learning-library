@@ -86,14 +86,22 @@ machine-learning-library/
 ├── README.md                  ← you are here
 ├── SOURCES.md                 ← full attribution: every source, credited
 ├── NOTICE.md                  ← licensing & usage notes
+├── AGENTS.md / CLAUDE.md      ← how an AI agent should navigate & cite this corpus
 ├── corpus/
 │   ├── INDEX.md               ← machine-generated index of all 590 files
 │   ├── papers/                ← 78 arXiv papers (full text + metadata)
 │   ├── youtube/               ← 474 lecture transcripts, grouped by channel
 │   └── web/                   ← 38 articles, grouped by domain
+├── atlas/                     ← topic navigation layer (Maps of Content + learning paths)
+│   ├── Home.md                ← start here when browsing in Obsidian
+│   ├── TAGS.md                ← the controlled tag vocabulary
+│   ├── topics/                ← one hub per topic (auto-lists every matching doc)
+│   └── paths/                 ← curated reading paths (Zero to Transformer, …)
+├── .obsidian/                 ← bundled vault config — open the folder in Obsidian and it just works
+├── tools/                     ← scripts that clean, tag, and index the corpus
 └── examples/
-    └── self-attention-study-note.md   ← a synthesized, fully-cited study note
-                                          built from the corpus (see "Use cases")
+    ├── self-attention-study-note.md   ← a synthesized, fully-cited study note
+    └── rag_quickstart.py              ← minimal semantic search / RAG over the corpus
 ```
 
 ### Frontmatter format
@@ -108,7 +116,9 @@ arxiv_id: "1706.03762"
 url: "http://arxiv.org/abs/1706.03762v7"
 authors: ["Ashish Vaswani", "Noam Shazeer", ...]
 published: "2017-06-12"
-topics: ["transformer", "attention"]
+topics: ["transformer", "attention"]          # original free-form tags
+aliases: ["Attention Is All You Need"]         # readable Obsidian wikilink targets
+tags: [topic/transformers-attention, level/advanced, medium/paper, task/language, technique/attention]
 ---
 
 ## Abstract
@@ -116,6 +126,9 @@ topics: ["transformer", "attention"]
 ## Full Text
 ...
 ```
+
+`tags:` is a controlled, queryable vocabulary (topic / level / medium / task /
+technique) layered on top of the original `topics:` — see [`atlas/TAGS.md`](atlas/TAGS.md).
 
 ---
 
@@ -168,6 +181,42 @@ model = SentenceTransformer("BAAI/bge-small-en-v1.5")
 embeddings = model.encode([d.content for d in docs])
 # ... store in your vector DB of choice and query
 ```
+
+A ready-to-run version of this lives in [`examples/rag_quickstart.py`](examples/rag_quickstart.py)
+(`python examples/rag_quickstart.py --build`, then ask it questions).
+
+---
+
+## Open in Obsidian / connect your agent
+
+This repo is also a ready-to-use **Obsidian vault** and an **agent-friendly
+knowledge base** — pick whichever fits how you work:
+
+**📓 Browse it in [Obsidian](https://obsidian.md).** Open the cloned folder as a
+vault — a bundled `.obsidian/` config sets up a topic-colored graph and sensible
+defaults out of the box.
+- **`atlas/Home.md`** is your start page; **`atlas/topics/`** has a hub per topic
+  with a curated reading list and cross-links — all working with no plugins.
+- Two **optional** community plugins make it shine; Obsidian will offer to enable
+  them, or install from *Settings → Community plugins*:
+  [Dataview](https://github.com/blacksmithgu/obsidian-dataview) (live auto-listed
+  doc tables in each hub) and
+  [Front Matter Title](https://github.com/snezhig/obsidian-front-matter-title)
+  (graph/explorer nodes show titles instead of arXiv/video IDs).
+- Everything degrades gracefully — the hubs, links, tags, and graph also render
+  fine on GitHub and as plain Markdown with no plugins at all.
+
+**🤖 Point your AI agent at it.** Choose one:
+| You use… | Do this |
+|---|---|
+| Cursor / Codex / Copilot / Gemini CLI / Aider / Zed | Open the folder — they read [`AGENTS.md`](AGENTS.md) automatically. |
+| Claude Code | Open the folder — it reads [`CLAUDE.md`](CLAUDE.md); a `/ml-library` skill is bundled. |
+| Claude Desktop | Add a [Filesystem MCP server](https://modelcontextprotocol.io) pointed at this folder. |
+| Obsidian + live read/write | Install the **Local REST API** plugin (built-in MCP server) and `claude mcp add` it. |
+| Semantic search / RAG | Run [`examples/rag_quickstart.py`](examples/rag_quickstart.py). |
+
+Your agent then answers ML questions grounded in these sources and **cites the
+exact paper or lecture** — no hallucinated references.
 
 ---
 

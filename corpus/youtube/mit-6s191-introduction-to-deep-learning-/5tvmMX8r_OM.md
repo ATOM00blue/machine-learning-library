@@ -9,6 +9,8 @@ duration_sec: 3396
 language: "en-en"
 fetched_at: "2026-05-26T22:56:35Z"
 topics: []
+aliases: ["MIT 6.S191 (2021): Introduction to Deep Learning"]
+tags: [topic/neural-network-foundations, level/intro, medium/lecture, task/general]
 ---
 
 [0:10] Good afternoon everyone and Welcome to MIT&nbsp; 6.S191 -- Introduction to Deep Learning. My&nbsp;&nbsp; name is Alexander Amini and I'm so excited to&nbsp; be your instructor this year along with Ava&nbsp;&nbsp; Soleimany in this new virtual format. 6.S191 is&nbsp; a two-week bootcamp on everything deep learning&nbsp;&nbsp; and we'll cover a ton of material in&nbsp; only two weeks so I think it's really&nbsp;&nbsp; important for us to dive right in with&nbsp; these lectures but before we do that I&nbsp;&nbsp; do want to motivate exactly why I think&nbsp; this is such an awesome field to study&nbsp;&nbsp;

@@ -6,6 +6,8 @@ domain: "cs231n.github.io"
 name: "CS231n - Convolutional Networks"
 fetched_at: "2026-05-26T23:30:01Z"
 topics: ["cnn"]
+aliases: ["CS231n Deep Learning for Computer Vision"]
+tags: [topic/computer-vision, level/intermediate, medium/article, task/vision, technique/cnn]
 ---
 
 Table of Contents:

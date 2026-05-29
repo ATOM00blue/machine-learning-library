@@ -6,6 +6,8 @@ domain: "d2l.ai"
 name: "d2l - Linear NN Regression"
 fetched_at: "2026-05-26T23:30:13Z"
 topics: ["regression"]
+aliases: ["3. Linear Neural Networks for Regression"]
+tags: [topic/classical-ml, level/intermediate, medium/article, task/tabular-classical]
 ---
 
 # 3. Linear Neural Networks for Regression Â¶

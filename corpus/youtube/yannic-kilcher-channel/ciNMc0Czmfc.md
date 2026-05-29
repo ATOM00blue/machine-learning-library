@@ -9,6 +9,8 @@ duration_sec: 3663.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:04:11Z"
 topics: []
+aliases: ["CICERO: An AI agent that negotiates, persuades, and cooperates with people", "CICERO"]
+tags: [topic/reasoning-agents, topic/language-models, topic/reinforcement-learning, level/frontier, medium/lecture, task/language, task/rl-control, technique/transformer, technique/rlhf, technique/embeddings]
 ---
 
 [0:00] today we'll look at Cicero which is an agent an AI agent created by meta AI that can play the game of diplomacy now diplomacy is a special game because because it is a board game where you need to communicate with the other players in order to coordinate actions and cooperate and also compete versus these other players and this coordination as I said is in natural language than chat messages so any AI

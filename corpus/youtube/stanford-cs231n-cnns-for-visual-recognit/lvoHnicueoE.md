@@ -9,6 +9,8 @@ duration_sec: 3841
 language: "en-en"
 fetched_at: "2026-05-26T22:53:12Z"
 topics: []
+aliases: ["Lecture 14 | Deep Reinforcement Learning"]
+tags: [topic/computer-vision, topic/reinforcement-learning, level/intermediate, medium/lecture, task/vision, task/rl-control]
 ---
 
 [0:09] - Okay let's get started. Alright, so welcome to lecture 14, and today we'll be talking about reinforcement learning. So some administrative details first, update on grades. Midterm grades were released last night, so see Piazza for more information and statistics about that. And we also have A2 and milestone grades scheduled for later this week. Also, about your projects, all teams must register your projects.

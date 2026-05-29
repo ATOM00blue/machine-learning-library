@@ -9,6 +9,8 @@ duration_sec: 5006
 language: "en-en"
 fetched_at: "2026-05-26T22:52:01Z"
 topics: []
+aliases: ["Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning (Autumn 2018)"]
+tags: [topic/classical-ml, level/intermediate, medium/lecture, task/tabular-classical]
 ---
 
 [0:03] Hey guys. Um, let's get started. So over the last several weeks, you've learned a lot about many different learning algorithms from linear regression, to logistic regression, to generalizing models, generative algorithms like GDA and Naive Bayes to most recently support-vector machines. Um, what I'd like to do today is to start talking about advice for applying learning algorithms. To teach a little bit about the theory behind, um, how to make good decisions of what to do,

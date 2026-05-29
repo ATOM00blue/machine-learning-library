@@ -6,6 +6,8 @@ domain: "magazine.sebastianraschka.com"
 name: "Raschka - LoRA from scratch"
 fetched_at: "2026-05-26T23:29:59Z"
 topics: ["peft", "lora"]
+aliases: ["Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch", "Improving LoRA"]
+tags: [topic/efficiency-systems, level/intermediate, medium/article, task/general, technique/lora-peft]
 ---
 
 Low-rank adaptation (LoRA) is a machine learning technique that modifies a pretrained model (for example, an LLM or vision transformer) to better suit a specific, often smaller, dataset by adjusting only a small, low-rank subset of the model's parameters.

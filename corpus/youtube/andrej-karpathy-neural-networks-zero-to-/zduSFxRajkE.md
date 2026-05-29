@@ -9,6 +9,8 @@ duration_sec: 8015
 language: "en-orig"
 fetched_at: "2026-05-26T22:55:47Z"
 topics: []
+aliases: ["Let's build the GPT Tokenizer"]
+tags: [topic/sequence-models-rnn, topic/language-models, level/intermediate, medium/lecture, task/language]
 ---
 
 [0:00] hi everyone so in this video I'd like us to cover the process of tokenization in large language models now you see here that I have a set face and that's because uh tokenization is my least favorite part of working with large language models but unfortunately it is necessary to understand in some detail because it it is fairly hairy gnarly and there's a lot of hidden foot guns to be aware of and a lot of oddness with large language models typically traces back to tokenization so what is tokenization now in my previous video Let's Build GPT from scratch uh we

@@ -6,6 +6,8 @@ domain: "lilianweng.github.io"
 name: "Lilian Weng - From Autoencoder to Beta-VAE"
 fetched_at: "2026-05-26T23:29:49Z"
 topics: ["vae"]
+aliases: ["From Autoencoder to Beta-VAE"]
+tags: [topic/generative-models, level/intermediate, medium/article, task/general, technique/vae]
 ---
 
 [Updated on 2019-07-18: add a section on VQ-VAE & VQ-VAE-2 .] [Updated on 2019-07-26: add a section on TD-VAE .]

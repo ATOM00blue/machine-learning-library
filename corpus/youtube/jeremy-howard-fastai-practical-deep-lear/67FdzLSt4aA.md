@@ -9,6 +9,8 @@ duration_sec: 4004.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:07:47Z"
 topics: []
+aliases: ["nbdev tutorial (sped up)"]
+tags: [topic/ml-engineering, level/intermediate, medium/lecture, task/general]
 ---
 
 [0:00] uh this is a tutorial uh where we're going to be talking about um nbdev how to use it and kind of the development process uh it'll be a fairly brief introduction and there'll be more videos coming soon with more and different and interesting ways to develop software and i am here with hamilton to say hi hamill hi everybody hamil's joining us here from uh where are you hello i'm actually at the uh our studio conference uh in washington dc uh tomorrow we're doing the launch of mbdev

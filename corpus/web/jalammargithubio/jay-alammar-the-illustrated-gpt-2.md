@@ -6,6 +6,8 @@ domain: "jalammar.github.io"
 name: "Jay Alammar - The Illustrated GPT-2"
 fetched_at: "2026-05-26T23:29:54Z"
 topics: ["gpt"]
+aliases: ["The Illustrated GPT-2 (Visualizing Transformer Language Models)"]
+tags: [topic/language-models, topic/transformers-attention, level/intermediate, medium/article, task/language, technique/transformer]
 ---
 
 Discussions: Hacker News (64 points, 3 comments) , Reddit r/MachineLearning (219 points, 18 comments)

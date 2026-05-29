@@ -9,6 +9,8 @@ duration_sec: 3264.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:00:20Z"
 topics: []
+aliases: ["Lumiere: A Space-Time Diffusion Model for Video Generation (Paper Explained)", "Lumiere"]
+tags: [topic/generative-models, level/frontier, medium/lecture, task/general, technique/diffusion, technique/attention, technique/cnn]
 ---
 
 [0:00] hello today we're talking about Lumiere A Spacetime diffusion model for video Generation by Google research this paper is it's pretty insane so you put in text and you get out video and there are some other of these models around and I find them all impressive but just look at this so the text to image models have become so good that the next Frontier is now text to video so you input a text you can see the prompts here if I tap on

@@ -9,6 +9,8 @@ duration_sec: 4598
 language: "en-en"
 fetched_at: "2026-05-26T22:52:08Z"
 topics: []
+aliases: ["Lecture 11 - Backprop & Improving Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)"]
+tags: [topic/classical-ml, topic/neural-network-foundations, level/intermediate, medium/lecture, task/tabular-classical, task/general]
 ---
 
 [0:03] Hi everyone. [NOISE] Welcome, welcome to the second lecture on deep learning for CS229. So a quick announcement before we start. There is a Piazza post Number 695 which is the mid-quarter survey for CS229, so fill it in when you have time. Okay. So let's get back to deep learning. So last week together we've seen, uh, what a neural network is and we started by
