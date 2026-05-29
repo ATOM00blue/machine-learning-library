@@ -6,6 +6,8 @@ domain: "cs231n.github.io"
 name: "CS231n - Linear Classification"
 fetched_at: "2026-05-26T23:30:10Z"
 topics: ["classification"]
+aliases: ["CS231n Deep Learning for Computer Vision"]
+tags: [topic/computer-vision, level/intermediate, medium/article, task/vision]
 ---
 
 Table of Contents:

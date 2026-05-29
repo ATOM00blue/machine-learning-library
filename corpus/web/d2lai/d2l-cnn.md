@@ -6,6 +6,8 @@ domain: "d2l.ai"
 name: "d2l - CNN"
 fetched_at: "2026-05-26T23:30:16Z"
 topics: ["cnn"]
+aliases: ["7. Convolutional Neural Networks"]
+tags: [topic/computer-vision, level/intermediate, medium/article, task/vision, technique/cnn]
 ---
 
 # 7. Convolutional Neural Networks Â¶

@@ -9,6 +9,8 @@ duration_sec: 1671.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:04:24Z"
 topics: []
+aliases: ["The New AI Model Licenses have a Legal Loophole (OpenRAIL-M of BLOOM, Stable Diffusion, etc.)"]
+tags: [topic/ai-industry-news, level/intro, medium/lecture, task/general, technique/diffusion]
 ---
 
 [0:00] the new responsible AI licenses that models like stable diffusion or Bloom have are stupid they conflict with open source principles in fact they're distinctly not open source and they have a glaring legal loophole in them so join me as we'll explore the Fun World of model licensing so first things first I am not a lawyer this is not legal advice these are my own opinions and the conclusions that I've come to while researching this topic and all of it is

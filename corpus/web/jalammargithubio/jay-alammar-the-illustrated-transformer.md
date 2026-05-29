@@ -6,6 +6,8 @@ domain: "jalammar.github.io"
 name: "Jay Alammar - The Illustrated Transformer"
 fetched_at: "2026-05-26T23:29:52Z"
 topics: ["transformer"]
+aliases: ["The Illustrated Transformer"]
+tags: [topic/transformers-attention, level/intermediate, medium/article, task/language, technique/transformer]
 ---
 
 Discussions: Hacker News (65 points, 4 comments) , Reddit r/MachineLearning (29 points, 3 comments) Translations: Arabic , Chinese (Simplified) 1 , Chinese (Simplified) 2 , French 1 , French 2 , Italian , Japanese , Korean , Persian , Russian , Spanish 1 , Spanish 2 , Vietnamese Watch: MIT’s Deep Learning State of the Art lecture referencing this post Featured in courses at Stanford , Harvard , MIT , Princeton , CMU and others

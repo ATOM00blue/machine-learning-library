@@ -6,6 +6,8 @@ domain: "d2l.ai"
 name: "d2l - Attention"
 fetched_at: "2026-05-26T23:30:19Z"
 topics: ["attention", "transformer"]
+aliases: ["11. Attention Mechanisms and Transformers"]
+tags: [topic/transformers-attention, level/intermediate, medium/article, task/language, technique/attention, technique/transformer]
 ---
 
 # 11. Attention Mechanisms and Transformers Â¶

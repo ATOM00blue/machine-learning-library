@@ -6,6 +6,8 @@ domain: "d2l.ai"
 name: "d2l - RNN"
 fetched_at: "2026-05-26T23:30:18Z"
 topics: ["rnn"]
+aliases: ["9. Recurrent Neural Networks"]
+tags: [topic/sequence-models-rnn, level/intermediate, medium/article, task/language, technique/rnn-lstm]
 ---
 
 # 9. Recurrent Neural Networks Â¶

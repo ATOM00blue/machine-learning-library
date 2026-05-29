@@ -6,6 +6,8 @@ domain: "transformer-circuits.pub"
 name: "Anthropic - Mathematical Framework for Transformer Circuits"
 fetched_at: "2026-05-26T23:30:27Z"
 topics: ["interpretability"]
+aliases: ["A Mathematical Framework for Transformer Circuits"]
+tags: [topic/interpretability, topic/transformers-attention, level/advanced, medium/article, task/language, technique/transformer]
 ---
 
 Transformer language models are an emerging technology that is gaining increasingly broad real-world use, for example in systems like GPT-3 , LaMDA , Codex , Meena , Gopher , and similar models.  However, as these models scale, their open-endedness and high capacity creates an increasing scope for unexpected and sometimes harmful behaviors.  Even years after a large model is trained, both creators and users routinely discover model capabilities – including problematic behaviors – they were previously unaware of.

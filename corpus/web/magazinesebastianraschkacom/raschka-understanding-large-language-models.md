@@ -6,6 +6,8 @@ domain: "magazine.sebastianraschka.com"
 name: "Raschka - Understanding Large Language Models"
 fetched_at: "2026-05-26T23:29:57Z"
 topics: ["llm"]
+aliases: ["Understanding Large Language Models"]
+tags: [topic/language-models, level/intermediate, medium/article, task/language]
 ---
 
 Large language models have taken the public attention by storm – no pun intended. In just half a decade large language models – transformers – have almost completely changed the field of natural language processing. Moreover, they have also begun to revolutionize fields such as computer vision and computational biology.

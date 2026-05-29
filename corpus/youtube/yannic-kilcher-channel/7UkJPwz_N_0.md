@@ -9,6 +9,8 @@ duration_sec: 3003.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:00:06Z"
 topics: []
+aliases: ["V-JEPA: Revisiting Feature Prediction for Learning Visual Representations from Video (Explained)", "V-JEPA"]
+tags: [topic/computer-vision, topic/generative-models, level/advanced, medium/lecture, task/vision, task/general, technique/transformer, technique/embeddings]
 ---
 
 [0:00] hello today we're going to look at revisiting feature prediction for learning visual representations from video also known as the paper that introduces the model v jeppa v JEA is a derivative or a variant of the JEA architecture that was originally proposed by Yan lah as on the built on the hypothesis of feature prediction being a very good tool to do unsupervised learning from the we're going to dive into all of that we're

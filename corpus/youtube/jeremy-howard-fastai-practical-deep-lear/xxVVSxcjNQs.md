@@ -9,6 +9,8 @@ duration_sec: 6729.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:07:56Z"
 topics: []
+aliases: ["J.J. Allaire (RStudio) and Jeremy Howard (fast.ai): \\\"2-way AMA\\", "J.J. Allaire (RStudio) and Jeremy Howard (fast.ai)"]
+tags: [topic/ml-engineering, topic/ai-industry-news, level/intro, medium/lecture, task/general]
 ---
 
 [0:00] all right hi everybody and uh welcome i am here with uh j.j elaire my name is jeremy howard and um we are having what i originally was very proud of myself for inventing the idea of a two-way ama i wondered why other people haven't come up with this idea and then i realized oh i think i just invented another name for a conversation so this is either a conversation with j.j elaire or a two-way ama we'll see if it turns out to be any different so g'day jj thanks for

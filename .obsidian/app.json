@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "showFrontmatter": true,
+  "attachmentFolderPath": "/",
+  "promptDelete": false,
+  "showUnsupportedFiles": false,
+  "defaultViewMode": "preview"
+}

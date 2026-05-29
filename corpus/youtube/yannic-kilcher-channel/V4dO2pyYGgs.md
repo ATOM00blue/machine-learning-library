@@ -9,6 +9,8 @@ duration_sec: 3187.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:02:36Z"
 topics: []
+aliases: ["Reinforced Self-Training (ReST) for Language Modeling (Paper Explained)"]
+tags: [topic/alignment-rlhf, topic/language-models, level/frontier, medium/lecture, task/language, technique/rlhf, technique/ppo, technique/transformer]
 ---
 
 [0:00] Hello friends of reinforcement learning for large language models what if I told you that I had a procedure that could make reward go up doesn't require any extra data or anything external at all it just makes reward go up now if this sounds too good to be true I have to say it's only a little it's only a little too good to be true and we'll see what that little is but it surprisingly seems to work so

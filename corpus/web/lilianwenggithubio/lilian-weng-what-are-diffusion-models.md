@@ -6,6 +6,8 @@ domain: "lilianweng.github.io"
 name: "Lilian Weng - What are Diffusion Models?"
 fetched_at: "2026-05-26T23:29:48Z"
 topics: ["diffusion"]
+aliases: ["What are Diffusion Models?"]
+tags: [topic/generative-models, level/intermediate, medium/article, task/general, technique/diffusion]
 ---
 
 [Updated on 2021-09-19: Highly recommend this blog post on score-based generative modeling by Yang Song (author of several key papers in the references)]. [Updated on 2022-08-27: Added classifier-free guidance , GLIDE , unCLIP and Imagen . [Updated on 2022-08-31: Added latent diffusion model . [Updated on 2024-04-13: Added progressive distillation , consistency models , and the Model Architecture section .

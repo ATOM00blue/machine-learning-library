@@ -6,6 +6,8 @@ domain: "cs231n.github.io"
 name: "CS231n - RNN"
 fetched_at: "2026-05-26T23:30:09Z"
 topics: ["transfer-learning"]
+aliases: ["CS231n Deep Learning for Computer Vision"]
+tags: [topic/computer-vision, level/intermediate, medium/article, task/vision]
 ---
 
 (These notes are currently in draft form and under development)

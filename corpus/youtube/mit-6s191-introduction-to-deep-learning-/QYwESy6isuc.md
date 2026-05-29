@@ -9,6 +9,8 @@ duration_sec: 1039
 language: "en-orig"
 fetched_at: "2026-05-26T22:57:26Z"
 topics: []
+aliases: ["MIT 6.S191 (2018): Issues in Image Classification"]
+tags: [topic/computer-vision, level/intro, medium/lecture, task/vision]
 ---
 
 [0:02] thanks for having me here yeah so I'm I'm based in the Cambridge office which is like a hundred meters that way um and we do a lot of stuff with deep learning we've got a large group in Google brain and other related fields so hopefully that's interesting to some of you at some point so I'm gonna talk for about 20 minutes or so um this sort of image issues in image classification theme I'm gonna hand it over to my excellent colleague sunshine Kai who's going to go through an

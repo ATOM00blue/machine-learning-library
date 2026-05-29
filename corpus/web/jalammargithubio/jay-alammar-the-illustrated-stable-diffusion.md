@@ -6,6 +6,8 @@ domain: "jalammar.github.io"
 name: "Jay Alammar - The Illustrated Stable Diffusion"
 fetched_at: "2026-05-26T23:29:56Z"
 topics: ["diffusion"]
+aliases: ["The Illustrated Stable Diffusion"]
+tags: [topic/generative-models, level/intermediate, medium/article, task/general, technique/diffusion]
 ---
 
 Translations: Chinese , Vietnamese .

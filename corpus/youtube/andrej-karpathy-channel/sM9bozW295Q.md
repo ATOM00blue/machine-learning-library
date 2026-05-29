@@ -9,6 +9,8 @@ duration_sec: 106.0
 language: "en"
 fetched_at: "2026-05-26T22:45:59Z"
 topics: []
+aliases: ["Stable diffusion dreams of tattoos"]
+tags: [topic/generative-models, level/intermediate, medium/lecture, task/general, technique/diffusion]
 ---
 
 [0:00] foreign [Music] [Applause] [Music] [Applause] [Music] foreign [Music]

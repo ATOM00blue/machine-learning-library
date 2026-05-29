@@ -9,6 +9,8 @@ duration_sec: 2657.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:01:34Z"
 topics: []
+aliases: ["NeurIPS 2023 Poster Session 2 (Wednesday Morning)"]
+tags: [topic/ai-industry-news, level/frontier, medium/lecture, task/general, technique/diffusion, technique/transformer, technique/rnn-lstm, technique/dpo]
 ---
 
 [0:01] here we go again this is the Wednesday morning poster session we'll try to find some cool papers it's just as big as all the other poster sessions goes from all the way back there to all of this Hall here insane [Music] insane hi hi hey big fan nice meeting

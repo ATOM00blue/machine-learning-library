@@ -9,6 +9,8 @@ duration_sec: 5177.0
 language: "en"
 fetched_at: "2026-05-26T23:07:29Z"
 topics: []
+aliases: ["Fast.ai APL study session 15"]
+tags: [topic/ml-engineering, level/intermediate, medium/lecture, task/general]
 ---
 
 [0:17] foreign hi there foreign is that good um I've got um I've got to monitors I've got one monitor to split into two halves um yeah I'm always curious which monitors are because you look up all the time oh you have two stacks is it it's one monitor but it's in pay-by-pay mode so it's treated okay that makes sense I have a tall monitor a wide monitor as well maybe you can do that yeah so this one's specifically designed for what they call pay by pay or picture by picture mode I was designing routine so I've got it plugged in to the computer with two cables so the computer thinks there's two monitors connected so I could move you guys down to the bottom okay and now I'm looking down at you that's more like you but now it's in the way of where I want to type APL APL so yeah and it's also that's the screen so I share this but I share the bottom screen um screen sharing so I put you guys on the touch screen I don't even knowing them hi Rory welcome are you able to talk or be videoed or are you just on text chat today just text chat I guess that's what I am okay no worries I don't want you to disturb people all right well since today is a extra rather late announced extra um session it might just be the four of us so cool that's fine how are you Isaac I'm doing good yeah I wasn't sure I was going to be able to make it today but I was able to wrap things up so um after we're doing an extra one today yeah thanks coming thanks for hosting this is uh always fun um all right share my screen foreign

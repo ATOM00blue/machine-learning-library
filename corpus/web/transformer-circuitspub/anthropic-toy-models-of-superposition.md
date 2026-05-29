@@ -6,6 +6,8 @@ domain: "transformer-circuits.pub"
 name: "Anthropic - Toy Models of Superposition"
 fetched_at: "2026-05-26T23:30:31Z"
 topics: ["interpretability"]
+aliases: ["Toy Models of Superposition"]
+tags: [topic/interpretability, level/advanced, medium/article, task/language]
 ---
 
 It would be very convenient if the individual neurons of artificial neural networks corresponded to cleanly interpretable features of the input. For example, in an “ideal” ImageNet classifier, each neuron would fire only in the presence of a specific visual feature, such as the color red, a left-facing curve, or a dog snout. Empirically, in models we have studied, some of the neurons do cleanly map to features. But it isn't always the case that features correspond so cleanly to neurons, especially in large language models where it actually seems rare for neurons to correspond to clean features. This brings up many questions. Why is it that neurons sometimes align with features and sometimes don't? Why do some models and tasks have many of these clean neurons, while they're vanishingly rare in others?

@@ -6,6 +6,8 @@ domain: "karpathy.medium.com"
 name: "Karpathy - Yes you should understand backprop"
 fetched_at: "2026-05-26T23:29:41Z"
 topics: ["backprop"]
+aliases: ["Yes you should understand backprop"]
+tags: [topic/neural-network-foundations, level/intermediate, medium/article, task/general]
 ---
 
 # Yes you should understand backprop

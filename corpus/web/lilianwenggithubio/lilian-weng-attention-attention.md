@@ -6,6 +6,8 @@ domain: "lilianweng.github.io"
 name: "Lilian Weng - Attention? Attention!"
 fetched_at: "2026-05-26T23:29:44Z"
 topics: ["attention"]
+aliases: ["Attention? Attention!"]
+tags: [topic/transformers-attention, level/intermediate, medium/article, task/language, technique/attention]
 ---
 
 [Updated on 2018-10-28: Add Pointer Network and the link to my implementation of Transformer.] [Updated on 2018-11-06: Add a link to the implementation of Transformer model.] [Updated on 2018-11-18: Add Neural Turing Machines .] [Updated on 2019-07-18: Correct the mistake on using the term “self-attention” when introducing the show-attention-tell paper; moved it to Self-Attention section.] [Updated on 2020-04-07: A follow-up post on improved Transformer models is here .]

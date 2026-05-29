@@ -9,6 +9,8 @@ duration_sec: 5281.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:07:34Z"
 topics: []
+aliases: ["Fast.ai APL study session 14"]
+tags: [topic/ml-engineering, level/intermediate, medium/lecture, task/general]
 ---
 
 [0:24] hi hello hello hello how are you i'm good very good uh glad i made it how about you jeremy how are you doing huh oh can you hear me it's this it's the same thing again i know it's okay it's fine oh it's all good no how are you jeremy sweet sweet sweet uh it's beautiful and sunny yes beautiful

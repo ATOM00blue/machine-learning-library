@@ -6,6 +6,8 @@ domain: "distill.pub"
 name: "Distill - Building Blocks of Interpretability"
 fetched_at: "2026-05-26T23:30:20Z"
 topics: ["interpretability"]
+aliases: ["The Building Blocks of Interpretability"]
+tags: [topic/interpretability, level/advanced, medium/article, task/language]
 ---
 
 With the growing success of neural networks, there is a corresponding need to be able to explain their decisions — including building confidence about how they will behave in the real-world, detecting model bias, and for scientific curiosity.

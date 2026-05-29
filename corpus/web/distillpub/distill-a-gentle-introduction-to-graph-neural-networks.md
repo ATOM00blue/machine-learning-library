@@ -6,6 +6,8 @@ domain: "distill.pub"
 name: "Distill - A Gentle Introduction to Graph Neural Networks"
 fetched_at: "2026-05-26T23:30:22Z"
 topics: ["gnn"]
+aliases: ["A Gentle Introduction to Graph Neural Networks"]
+tags: [topic/neural-network-foundations, level/intermediate, medium/article, task/general, task/graph]
 ---
 
 This article is one of two Distill publications about graph neural networks. Take a look at Understanding Convolutions on Graphs to understand how convolutions over images generalize naturally to convolutions over graphs.

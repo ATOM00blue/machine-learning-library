@@ -9,6 +9,8 @@ duration_sec: 4788
 language: "en-en"
 fetched_at: "2026-05-26T22:52:14Z"
 topics: []
+aliases: ["Lecture 14 - EM Algorithm & Factor Analysis | Stanford CS229: Machine Learning Andrew Ng -Autumn2018"]
+tags: [topic/classical-ml, level/intermediate, medium/lecture, task/tabular-classical]
 ---
 
 [0:03] All right. Hi everyone, welcome back. Um, so what we'll see today is, um, additional, uh, elaborations on the EM, um, on the expectation maximization algorithm. And so, um, what you see today is, um, go over, you know, quick recap of what we talked about EM on Monday, and then describe how you can monitor if EM is converging.

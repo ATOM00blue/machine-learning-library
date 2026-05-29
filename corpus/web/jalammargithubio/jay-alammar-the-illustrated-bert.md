@@ -6,6 +6,8 @@ domain: "jalammar.github.io"
 name: "Jay Alammar - The Illustrated BERT"
 fetched_at: "2026-05-26T23:29:53Z"
 topics: ["bert"]
+aliases: ["The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)"]
+tags: [topic/language-models, level/intermediate, medium/article, task/language]
 ---
 
 Discussions: Hacker News (98 points, 19 comments) , Reddit r/MachineLearning (164 points, 20 comments) Translations: Chinese (Simplified) , French 1 , French 2 , Japanese , Korean , Persian , Russian , Spanish

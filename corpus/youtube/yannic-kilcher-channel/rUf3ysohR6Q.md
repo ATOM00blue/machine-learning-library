@@ -9,6 +9,8 @@ duration_sec: 1311.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:02:17Z"
 topics: []
+aliases: ["I built the most expensive CPU ever! (Every instruction is a prompt)"]
+tags: [topic/ml-engineering, level/intermediate, medium/lecture, task/general]
 ---
 
 [0:00] Andre has posted this tweet a while back he says that with the many puzzle pieces dropping recently we should consider llms not as a chatbot but the kernel process of a new operating system you know it can orchestrate all of these things and it can even act as all of these things it can act as an operating system it can orchestrate databases and so on but I want to say Andre Andre an operating system is nothing your creativity limits you thinking inside a

@@ -9,6 +9,8 @@ duration_sec: 4136
 language: "en-en"
 fetched_at: "2026-05-26T22:52:52Z"
 topics: []
+aliases: ["Lecture 5 | Convolutional Neural Networks"]
+tags: [topic/computer-vision, level/intermediate, medium/lecture, task/vision, technique/cnn]
 ---
 
 [0:08] - Okay, let's get started. Alright, so welcome to lecture five. Today we're going to be getting to the title of the class, Convolutional Neural Networks. Okay, so a couple of administrative details before we get started. Assignment one is due Thursday, April 20, 11:59 p.m. on Canvas. We're also going to be releasing assignment two on Thursday. Okay, so a quick review of last time.

@@ -9,6 +9,8 @@ duration_sec: 7557.0
 language: "en-en"
 fetched_at: "2026-05-26T23:06:31Z"
 topics: []
+aliases: ["Lesson 18: Deep Learning Foundations to Stable Diffusion", "Lesson 18"]
+tags: [topic/generative-models, level/intermediate, medium/lecture, task/general, technique/diffusion]
 ---
 
 [0:00] Hi folks, thanks for joining me for Lesson 18. We're going to start today in Microsoft Excel.&nbsp; You'll see there's an Excel folder&nbsp; actually in the course22p2 repo.&nbsp; And in there there's a spreadsheet&nbsp; called graddesc as in gradient descent,&nbsp;&nbsp; which I guess we should zoom in a bit here.&nbsp; So there's some instructions here,&nbsp;&nbsp;

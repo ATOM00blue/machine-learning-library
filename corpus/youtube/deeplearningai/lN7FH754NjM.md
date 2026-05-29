@@ -9,6 +9,8 @@ duration_sec: 1106.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:09:32Z"
 topics: []
+aliases: ["AI Dev 26 x SF | Aman Singla & Aseem Chandra: MarcoPolo, A Workspace for AI to Work with Your Data"]
+tags: [topic/ml-engineering, topic/reasoning-agents, level/frontier, medium/lecture, task/general, task/language, technique/rag]
 ---
 
 [0:07] My name is Aman Singla. And I'm here on behalf of the team building Marco Polo. We are a small and mighty team. But we are on a mission to connect agentic AI to enterprise data. By agentic AI, I mean tools like Claude, ChatGPT, Crossover, Perplexity, any of the agentic AI tools that you might be using or you might even be building. Okay, your own agentic AI apps. And by enterprise data, I mean uh data sitting in raw storage, databases, data

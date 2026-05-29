@@ -6,6 +6,8 @@ domain: "jalammar.github.io"
 name: "Jay Alammar - Visualizing a Neural Machine Translation Model"
 fetched_at: "2026-05-26T23:29:55Z"
 topics: ["seq2seq", "attention"]
+aliases: ["Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)"]
+tags: [topic/sequence-models-rnn, topic/transformers-attention, level/intermediate, medium/article, task/language, technique/attention]
 ---
 
 Translations: Chinese (Simplified) , French , Japanese , Korean , Persian , Russian , Turkish , Uzbek Watch: MIT’s Deep Learning State of the Art lecture referencing this post

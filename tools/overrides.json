@@ -1,0 +1,1985 @@
+{
+ "corpus/youtube/3blue1brown-neural-networks/iv-5mZ_9CPY.md": {
+  "topics": [
+   "generative-models",
+   "multimodal"
+  ],
+  "techniques": [
+   "diffusion",
+   "embeddings",
+   "attention"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/-B0zaWoPEFs.md": {
+  "topics": [
+   "ai-industry-news",
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/deeplearningai/03h0SRCUAI4.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/0tTwDK_o9Oc.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/1OZrOnz8kM0.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/4f5SfmXsfBI.md": {
+  "topics": [
+   "ml-engineering",
+   "multimodal",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/6Ncfa6xWavg.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/7VISmcJpqis.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/80vV6fGIlWo.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/8ib4Qnh2HFE.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [
+   "cot"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/B4QV7xohF40.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/BapZILq8_zA.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/C5oYk1bn4_o.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/deeplearningai/CXd0kDikK0U.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "cot"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/DvDnGlvGQCk.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/EeyLHsND5i0.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/FMpgh2QfX_g.md": {
+  "topics": [
+   "ml-engineering",
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/J6hpb-DE7M8.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "cot"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/JqyB0taAo7w.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/L_47rVSuwBU.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "cot",
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/MlVuNCP9uxs.md": {
+  "topics": [
+   "ml-engineering",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "lora-peft",
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/NtvEHHwKdUE.md": {
+  "topics": [
+   "ml-engineering",
+   "computer-vision"
+  ],
+  "techniques": [
+   "embeddings",
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/ODvRuSy5loE.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/QVawxdMRZtk.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/T-E5YF432Qw.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/Y8h43EEdOrA.md": {
+  "topics": [
+   "evaluation-trust",
+   "ml-engineering",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rag",
+   "cot"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/Z_pCTBtCmck.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/_34LbyYNoqU.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/_KAXZtMSDlo.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/_w3WSNr6lO4.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/bDIB8jrNhHc.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/bQbzfC8jAXY.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "frontier"
+ },
+ "corpus/youtube/deeplearningai/chs2Xx4JbBs.md": {
+  "topics": [
+   "ai-industry-news",
+   "multimodal"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/deeplearningai/cnt83ML6-fA.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/e9QDd1Osrro.md": {
+  "topics": [
+   "ml-engineering",
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/fAfuQN0WwFE.md": {
+  "topics": [
+   "ml-engineering",
+   "evaluation-trust"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/g8um2AEf5ZA.md": {
+  "topics": [
+   "ml-engineering",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/hsy02uiKcAM.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/jkHVVrZhZjQ.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/kCzEixkZsfE.md": {
+  "topics": [
+   "ai-industry-news",
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/deeplearningai/klAynlP04h0.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "frontier"
+ },
+ "corpus/youtube/deeplearningai/lN7FH754NjM.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/deeplearningai/n366hY4JZ9U.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/nlduRWBt4S8.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/okSgumIGLBY.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/sz1lB31xxqo.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/deeplearningai/vFIHrJuwVTc.md": {
+  "topics": [
+   "ai-industry-news",
+   "multimodal"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/deeplearningai/wKAeqSfIX5g.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/ycKLqk5tezw.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/deeplearningai/zbuf9J5KgOM.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/AbBZEULuCwc.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/LDklFaxssFE.md": {
+  "topics": [
+   "ai-industry-news",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/LrFbxIvsipw.md": {
+  "topics": [
+   "ai-industry-news",
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/PZN_9-_xqk0.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/WJS2YDZO-vc.md": {
+  "topics": [
+   "ai-industry-news",
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/YKeXxj4geRo.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/e9tL_Eg3fpM.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/jNIPiNrl9Jo.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/xxVVSxcjNQs.md": {
+  "topics": [
+   "ml-engineering",
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/jeremy-howard-fastai-practical-deep-lear/zIqLuuyxgE4.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/-boCMDouF2g.md": {
+  "topics": [
+   "neural-network-foundations",
+   "computer-vision",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "cnn",
+   "rnn-lstm"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/4PuuziOgSU4.md": {
+  "topics": [
+   "reasoning-agents",
+   "computer-vision",
+   "language-models"
+  ],
+  "techniques": [
+   "cnn",
+   "rnn-lstm",
+   "rlhf"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/BCZ56MU-KhQ.md": {
+  "topics": [
+   "computer-vision",
+   "generative-models"
+  ],
+  "techniques": [
+   "cnn",
+   "gan"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/CyCUZAf8xSU.md": {
+  "topics": [
+   "alignment-rlhf",
+   "evaluation-trust",
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/CznICCPa63Q.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/FHeCmnNe0P8.md": {
+  "topics": [
+   "generative-models",
+   "neural-network-foundations",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion",
+   "gan",
+   "vae",
+   "cnn"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/FkHWKq86tSw.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/INja7C5_vqk.md": {
+  "topics": [
+   "neural-network-foundations",
+   "interpretability",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "cnn",
+   "attention"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/NHZMfSMAHlo.md": {
+  "topics": [
+   "computer-vision",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "cnn"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/P7Hkh2zOGQ0.md": {
+  "topics": [
+   "generative-models",
+   "multimodal",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "diffusion",
+   "gan",
+   "transformer",
+   "attention"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/QZxcTZj0L-M.md": {
+  "topics": [
+   "ai-industry-news",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "attention",
+   "cnn"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/SSzSOeGP87I.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "diffusion",
+   "vae",
+   "gan"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/WkUYsVC3hKI.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "embeddings",
+   "mlp"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/XKOpA7iaJvg.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reasoning-agents",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "rlhf",
+   "rag"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/Z5Pw5eWItiw.md": {
+  "topics": [
+   "ai-industry-news",
+   "neural-network-foundations"
+  ],
+  "techniques": [
+   "mlp",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/Z7YMDwzUTds.md": {
+  "topics": [
+   "neural-network-foundations",
+   "computer-vision",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "cnn",
+   "embeddings"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/ZAGiinWiFsE.md": {
+  "topics": [
+   "ml-engineering",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/_MzaThb_jno.md": {
+  "topics": [
+   "computer-vision",
+   "generative-models"
+  ],
+  "techniques": [
+   "gan",
+   "cnn"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/aFEnWHxUd7s.md": {
+  "topics": [
+   "computer-vision",
+   "multimodal"
+  ],
+  "techniques": [
+   "cnn",
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/cvXVK8oqU4Q.md": {
+  "topics": [
+   "ai-industry-news",
+   "computer-vision",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "cnn"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/eS-OHAHOqU0.md": {
+  "topics": [
+   "computer-vision",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "cnn",
+   "gan"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/l_yWLAQg7LU.md": {
+  "topics": [
+   "neural-network-foundations",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "mlp",
+   "cnn",
+   "rnn-lstm"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/lkkFcg9k9ho.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision"
+  ],
+  "techniques": [
+   "gan",
+   "rnn-lstm"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/p1NpGC8K-vs.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "cnn",
+   "mlp"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/rZACoZD8AG8.md": {
+  "topics": [
+   "ai-industry-news",
+   "generative-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "attention"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/tfM_DdbGTLs.md": {
+  "topics": [
+   "neural-network-foundations",
+   "computer-vision",
+   "language-models"
+  ],
+  "techniques": [
+   "cnn",
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/ulLx2iPTIcs.md": {
+  "topics": [
+   "interpretability",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/mit-6s191-introduction-to-deep-learning-/wySXLRTxAGQ.md": {
+  "topics": [
+   "neural-network-foundations",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "cnn",
+   "attention"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/-Ldg4qFL6bU.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models"
+  ],
+  "techniques": [
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/1uMo8olr5ng.md": {
+  "topics": [
+   "language-models",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "transformer",
+   "rnn-lstm",
+   "rlhf",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/2t7Q9WVUaf8.md": {
+  "topics": [
+   "language-models",
+   "evaluation-trust",
+   "multimodal"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "attention"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/4ynrGLIuPv4.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rag",
+   "embeddings"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/8j4wpU98Q74.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/N9L32bFieEY.md": {
+  "topics": [
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "transformer",
+   "rnn-lstm",
+   "rlhf",
+   "cot"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/NcqfHa0_YmU.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "transformers-attention",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rag",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/NxH0Y78xcF4.md": {
+  "topics": [
+   "language-models",
+   "transformers-attention",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "transformer",
+   "rnn-lstm",
+   "embeddings",
+   "attention"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/UVX7SYGCKkA.md": {
+  "topics": [
+   "efficiency-systems",
+   "language-models"
+  ],
+  "techniques": [
+   "lora-peft",
+   "quantization",
+   "transformer"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/Uv0AIRr3ptg.md": {
+  "topics": [
+   "ml-engineering",
+   "neural-network-foundations"
+  ],
+  "techniques": [
+   "mlp"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/b80by3Xk_A8.md": {
+  "topics": [
+   "ml-engineering",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/f_qmSSBWV_E.md": {
+  "topics": [
+   "interpretability",
+   "evaluation-trust",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rnn-lstm",
+   "embeddings"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/gKD7jPAdbpE.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/gqaHkPEZAew.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "neural-network-foundations"
+  ],
+  "techniques": [
+   "embeddings",
+   "mlp"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/iXjtJmUQBZk.md": {
+  "topics": [
+   "evaluation-trust",
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/stanford-cs224n-nlp-with-deep-learning-w/tfVgHsKpRC8.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "multimodal",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "transformer",
+   "cot"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/-SWONSNzJGo.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/-r0XPC7TLzY.md": {
+  "topics": [
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "dpo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/0A8ljAkdFtg.md": {
+  "topics": [
+   "ai-industry-news",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/0OaEv1a5jUM.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "ssm",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/0bpYCxv2qhw.md": {
+  "topics": [
+   "ml-engineering",
+   "reasoning-agents",
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/10nEx2-8J0M.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/2TlIZktYCf4.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/2zW33LfffPc.md": {
+  "topics": [
+   "ai-industry-news",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "transformer"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/3N3Bl5AA5QU.md": {
+  "topics": [
+   "reinforcement-learning",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/3a0_hAiFKag.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rnn-lstm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/3nF8Z6HgSLQ.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/409tNlaByds.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "attention",
+   "transformer"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/4Cclp6yPDuw.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/52kMBrAI_IM.md": {
+  "topics": [
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "dpo",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/5bPBbQyLI7E.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/64Izfm24FKA.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "dpo"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/6OozhhI6U4g.md": {
+  "topics": [
+   "ml-engineering",
+   "language-models"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/7NNxK3CqaDk.md": {
+  "topics": [
+   "generative-models"
+  ],
+  "techniques": [
+   "normalizing-flow",
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/7UkJPwz_N_0.md": {
+  "topics": [
+   "computer-vision",
+   "generative-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/9dSkvxS2EB0.md": {
+  "topics": [
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "ssm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/AfAmwIP2ntY.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "cot",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/B45FlSQ8ITo.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "ssm",
+   "quantization",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/BMAu7hAcjqU.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/Bs6eyNQjGpo.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/DRwwjifoVZU.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/E5OnoYF2oAk.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/FY5j3P9tCeA.md": {
+  "topics": [
+   "language-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "embeddings",
+   "transformer"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/Fr6Teh_ox-8.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/GBOE9fVVVSM.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/GFg98TDqCpw.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/GtveKYXYo_0.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/HbF-jx1jfw0.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/Hi6cbeBY2oQ.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/I72_GJHzH3Y.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/Kk8YhCpo1b8.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "moe",
+   "ssm"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/KwpeuqT69fw.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/Nao16-6l6dQ.md": {
+  "topics": [
+   "transformers-attention",
+   "generative-models"
+  ],
+  "techniques": [
+   "transformer",
+   "vae",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/PW4JiJ-WaY4.md": {
+  "topics": [
+   "reasoning-agents",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/Pl8BET_K1mc.md": {
+  "topics": [
+   "generative-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "attention",
+   "cnn"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/PtfatBOlHIA.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/RAEy3JZmIaA.md": {
+  "topics": [
+   "transformers-attention",
+   "efficient-architectures",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/S-7r0-oysaU.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/TOo-HnjjuhU.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/Tkijsu129M0.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/UXdM7pjYZfs.md": {
+  "topics": [
+   "generative-models",
+   "multimodal"
+  ],
+  "techniques": [
+   "diffusion",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/V4dO2pyYGgs.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/V71AJoYAtBQ.md": {
+  "topics": [
+   "interpretability"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/W5M-dvzpzSQ.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/WncUlZYpdq4.md": {
+  "topics": [
+   "generative-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/WwbukAcMM4k.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "mlp"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/YOyr9Bhhaq0.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/YiS1cJU2zS8.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/YqPYDWPYXFs.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/ZNK4nfgNQpM.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/ZTs_mXwMCs8.md": {
+  "topics": [
+   "language-models",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "transformer",
+   "cot"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/ZcoOW8nqVP8.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/_NMQyOu2HTo.md": {
+  "topics": [
+   "interpretability",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/_okxGdHM5b8.md": {
+  "topics": [
+   "neural-network-foundations",
+   "classical-ml"
+  ],
+  "techniques": [
+   "mlp"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/bAWV_yrqx4w.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "ppo",
+   "rlhf",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/bXYLyDhcyWY.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/ciNMc0Czmfc.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "transformer",
+   "rlhf",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/cjs7QKJNVYM.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/cx3bbMf9LRA.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/ddG2fM9i4Kk.md": {
+  "topics": [
+   "alignment-rlhf",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/dnTGn1EQqtQ.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/ec56a8wmfRk.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "ssm",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/gfU5y7qCxF0.md": {
+  "topics": [
+   "transformers-attention",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/gqtmUHhaplo.md": {
+  "topics": [
+   "ai-industry-news",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/hW3OVWfndLw.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "lora-peft"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/hkAH7-u7t5k.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/hpC4qjWu_aY.md": {
+  "topics": [
+   "language-models",
+   "evaluation-trust",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "attention",
+   "rag",
+   "transformer"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/igS2Wy8ur5U.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/jE9jAZC42NE.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "ssm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/kzB23CoZG30.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/loaTGpqfctI.md": {
+  "topics": [
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/mU3g2YPKlsA.md": {
+  "topics": [
+   "interpretability"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/nOBm4aYEYR4.md": {
+  "topics": [
+   "reinforcement-learning"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/no7EQkOiHQM.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/nvRZHWCBUdQ.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/oUqnvQm_k9M.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/p6d-cMkVz7M.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "rnn-lstm",
+   "dpo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/q1LrXH5_Oy0.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/r8wiBA3ZaQE.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/rUf3ysohR6Q.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/r_UBBfTPcF0.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "attention",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/tRavLU8Ih4A.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/taCVT5vDAk0.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "generative-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/tkX0EfNl4Fc.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/ut5kp56wW_4.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "cot",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/v67plFw1nMw.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "ssm",
+   "mlp"
+  ],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/v8O_tSF_o50.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [
+   "embeddings"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/x8pW19wKfXQ.md": {
+  "topics": [
+   "efficient-architectures",
+   "sequence-models-rnn",
+   "language-models"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "transformer",
+   "ssm",
+   "attention"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/xHi8PUIVyoo.md": {
+  "topics": [
+   "ml-engineering"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/xbxe-x6wvRw.md": {
+  "topics": [
+   "ai-industry-news",
+   "generative-models"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/xs-0cp1hSnY.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intermediate"
+ },
+ "corpus/youtube/yannic-kilcher-channel/yR4hNBNS6yc.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ },
+ "corpus/youtube/yannic-kilcher-channel/zKohTkN0Fyk.md": {
+  "topics": [
+   "reasoning-agents",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "embeddings",
+   "rag"
+  ],
+  "level": "advanced"
+ },
+ "corpus/youtube/yannic-kilcher-channel/zn7nLR58hBk.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "frontier"
+ },
+ "corpus/youtube/yannic-kilcher-channel/zut38E-BHH0.md": {
+  "topics": [
+   "ai-industry-news"
+  ],
+  "techniques": [],
+  "level": "intro"
+ }
+}

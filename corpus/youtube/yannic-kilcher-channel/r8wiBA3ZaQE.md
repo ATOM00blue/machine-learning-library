@@ -9,6 +9,8 @@ duration_sec: 2516.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:04:05Z"
 topics: []
+aliases: ["[ML News] GPT-4 Rumors | AI Mind Reading | Neuron Interaction Solved | AI Theorem Proving"]
+tags: [topic/ai-industry-news, level/intermediate, medium/lecture, task/general, technique/diffusion]
 ---
 
 [0:00] rumors of gpt4 are in the air neuron Transmissions is now solved in closed form and mind reading is a thing now it's Monday and welcome to ml news [Music] hello and welcome to ml news this is your regular update of what's going on in the machine learning and AI World our first story is the most interesting one brain reading is more and more becoming a thing there is a paper called seeing

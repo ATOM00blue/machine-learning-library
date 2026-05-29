@@ -6,6 +6,8 @@ domain: "distill.pub"
 name: "Distill - Understanding Convolutions on Graphs"
 fetched_at: "2026-05-26T23:30:24Z"
 topics: ["gnn"]
+aliases: ["Understanding Convolutions on Graphs"]
+tags: [topic/neural-network-foundations, level/intermediate, medium/article, task/general, task/graph]
 ---
 
 This article is one of two Distill publications about graph neural networks.

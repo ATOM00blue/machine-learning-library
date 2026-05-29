@@ -9,6 +9,8 @@ duration_sec: 1158.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:08:26Z"
 topics: []
+aliases: ["AI Dev 26 x SF | Luke Kim: The Agent Data Stack—Why Every AI Agent Needs Its Own Data Stack"]
+tags: [topic/ml-engineering, topic/reasoning-agents, level/intermediate, medium/lecture, task/general, task/language]
 ---
 
 [0:07] Hi everybody. Uh my name is Luke Kim. I'm the founder and CEO of Spice AI. Uh we are a data and AI infrastructure startup out of Belleview. Uh we build an open source project uh which is a data platform for AI context. Um which I will show you soon. So if you think about the SAS era uh of the last 10-15 years uh we had this modern data stack and you would have these centralized data systems where

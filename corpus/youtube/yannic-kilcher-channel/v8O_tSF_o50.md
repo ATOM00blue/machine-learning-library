@@ -9,6 +9,8 @@ duration_sec: 497.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:00:58Z"
 topics: []
+aliases: ["I created an AI-powered Social Network"]
+tags: [topic/ml-engineering, level/intro, medium/lecture, task/general, technique/embeddings]
 ---
 
 [0:00] are you tired of using words in order to transmit information are you tired of uploading actual pictures and then have other people see every single Pixel of that picture but this social network here does not transmit what you post this social network transmits the essence only the core idea of what you upload to other users this social network operates entirely in the latent space and that's why I call it latent

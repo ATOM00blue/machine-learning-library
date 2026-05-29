@@ -9,6 +9,8 @@ duration_sec: 1879.0
 language: "en-orig"
 fetched_at: "2026-05-26T22:58:54Z"
 topics: []
+aliases: ["[ML News] Llama 3 changes the game"]
+tags: [topic/ai-industry-news, level/intro, medium/lecture, task/general]
 ---
 
 [0:00] Hello, hello. We are witnessing the Lama revolution. Um, so today I don't have big fancy intros or anything like this. It's just pretty raw me um, because we have to talk about Lama 3. Lama 3 came out 2 days ago or something like this and it's already mad. It's already all across the large language model world. Uh, if you don't know what I'm talking about and I don't know why you wouldn't, but for

@@ -9,6 +9,8 @@ duration_sec: 1915.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:03:57Z"
 topics: []
+aliases: ["ChatGPT: This AI has a JAILBREAK?! (Unbelievable AI Progress)", "ChatGPT"]
+tags: [topic/ai-industry-news, topic/alignment-rlhf, level/intro, medium/lecture, task/general, task/language, technique/rlhf, technique/ppo]
 ---
 
 [0:00] this changes everything at least many people say so chat GPT our Lord and savior has arrived it is a new model by open AI that has been fine-tuned on human feedback it is amazing at pretty much any task people throw at it and it can do so much more than previous models or is it just that it's easier to make it do so much more we don't know we're gonna look at the stuff it can do today at the stuff where it maybe also fails a little bit and the jailbreaks yes the

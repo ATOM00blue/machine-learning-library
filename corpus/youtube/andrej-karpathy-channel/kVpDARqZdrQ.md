@@ -9,6 +9,8 @@ duration_sec: 242.0
 language: "en"
 fetched_at: "2026-05-26T22:45:55Z"
 topics: []
+aliases: ["Stable diffusion dreams of psychedelic faces"]
+tags: [topic/generative-models, level/intermediate, medium/lecture, task/general, technique/diffusion]
 ---
 
 [0:02] [Music]

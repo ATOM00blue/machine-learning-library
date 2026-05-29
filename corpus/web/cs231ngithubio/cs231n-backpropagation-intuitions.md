@@ -6,6 +6,8 @@ domain: "cs231n.github.io"
 name: "CS231n - Backpropagation, Intuitions"
 fetched_at: "2026-05-26T23:30:04Z"
 topics: ["backprop"]
+aliases: ["CS231n Deep Learning for Computer Vision"]
+tags: [topic/neural-network-foundations, level/intermediate, medium/article, task/general]
 ---
 
 Table of Contents:

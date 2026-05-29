@@ -9,6 +9,8 @@ duration_sec: 1762.0
 language: "en-orig"
 fetched_at: "2026-05-26T22:58:44Z"
 topics: []
+aliases: ["[ML News] OpenAI is in hot waters (GPT-4o, Ilya Leaving, Scarlett Johansson legal action)"]
+tags: [topic/ai-industry-news, level/intro, medium/lecture, task/general]
 ---
 
 [0:01] we have to talk about open AI there's so much been going on in the entire world of AI and today we're going to have a full plate with just open AI I know there's tons of other stuff going on but just open a has been through ups and downs and ups and downs recently and is finding itself currently in a controversy with Scarlet Johansson we'll get to that at the end but you surely have heard that introd introducing their

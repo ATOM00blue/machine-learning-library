@@ -9,6 +9,8 @@ duration_sec: 2651.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:02:42Z"
 topics: []
+aliases: ["[ML News] LLaMA2 Released | LLMs for Robots | Multimodality on the Rise"]
+tags: [topic/ai-industry-news, level/intermediate, medium/lecture, task/general]
 ---
 
 [0:00] why does Sam Altman CEO of open AI chat GPT carries a blue backpack everywhere he goes hear me out hear me out to carry his stuff okay I'm back what happened uh while I was gone today we're going to look at the last one and a half months of AI development had to take a bit of a break everything well now let's go the probably biggest thing that happened is the introduction of llama 2 meta

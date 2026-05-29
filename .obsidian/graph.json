@@ -1,0 +1,149 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:atlas",
+      "color": {
+        "a": 1,
+        "rgb": 16757284
+      }
+    },
+    {
+      "query": "tag:#topic/transformers-attention",
+      "color": {
+        "a": 1,
+        "rgb": 15026253
+      }
+    },
+    {
+      "query": "tag:#topic/language-models",
+      "color": {
+        "a": 1,
+        "rgb": 3187820
+      }
+    },
+    {
+      "query": "tag:#topic/generative-models",
+      "color": {
+        "a": 1,
+        "rgb": 9326278
+      }
+    },
+    {
+      "query": "tag:#topic/computer-vision",
+      "color": {
+        "a": 1,
+        "rgb": 37375
+      }
+    },
+    {
+      "query": "tag:#topic/neural-network-foundations",
+      "color": {
+        "a": 1,
+        "rgb": 16214805
+      }
+    },
+    {
+      "query": "tag:#topic/reasoning-agents",
+      "color": {
+        "a": 1,
+        "rgb": 16770601
+      }
+    },
+    {
+      "query": "tag:#topic/efficiency-systems",
+      "color": {
+        "a": 1,
+        "rgb": 41671
+      }
+    },
+    {
+      "query": "tag:#topic/efficient-architectures",
+      "color": {
+        "a": 1,
+        "rgb": 4088797
+      }
+    },
+    {
+      "query": "tag:#topic/reinforcement-learning",
+      "color": {
+        "a": 1,
+        "rgb": 15025766
+      }
+    },
+    {
+      "query": "tag:#topic/sequence-models-rnn",
+      "color": {
+        "a": 1,
+        "rgb": 4630360
+      }
+    },
+    {
+      "query": "tag:#topic/alignment-rlhf",
+      "color": {
+        "a": 1,
+        "rgb": 12405504
+      }
+    },
+    {
+      "query": "tag:#topic/classical-ml",
+      "color": {
+        "a": 1,
+        "rgb": 9929573
+      }
+    },
+    {
+      "query": "tag:#topic/multimodal",
+      "color": {
+        "a": 1,
+        "rgb": 11225786
+      }
+    },
+    {
+      "query": "tag:#topic/interpretability",
+      "color": {
+        "a": 1,
+        "rgb": 14041247
+      }
+    },
+    {
+      "query": "tag:#topic/evaluation-trust",
+      "color": {
+        "a": 1,
+        "rgb": 11370328
+      }
+    },
+    {
+      "query": "tag:#topic/ml-engineering",
+      "color": {
+        "a": 1,
+        "rgb": 5987286
+      }
+    },
+    {
+      "query": "tag:#topic/ai-industry-news",
+      "color": {
+        "a": 1,
+        "rgb": 8422285
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 0.85,
+  "lineSizeMultiplier": 0.7,
+  "collapse-forces": true,
+  "centerStrength": 0.42,
+  "repelStrength": 12.4,
+  "linkStrength": 0.55,
+  "linkDistance": 95,
+  "scale": 0.5,
+  "close": true
+}

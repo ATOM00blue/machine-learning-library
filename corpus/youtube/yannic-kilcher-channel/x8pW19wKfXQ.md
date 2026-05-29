@@ -9,6 +9,8 @@ duration_sec: 3737.0
 language: "en-orig"
 fetched_at: "2026-05-26T23:03:07Z"
 topics: []
+aliases: ["RWKV: Reinventing RNNs for the Transformer Era (Paper Explained)", "RWKV"]
+tags: [topic/efficient-architectures, topic/sequence-models-rnn, topic/language-models, level/advanced, medium/lecture, task/language, technique/rnn-lstm, technique/transformer, technique/ssm, technique/attention]
 ---
 
 [0:00] hello today we're going to look at RW KV which in its own words is Reinventing RNN for the Transformer ERA this is a very interesting project and a very interesting model architecture because it has some properties of Transformers notably it's a model architecture that's very scalable in terms of training so you can stack it really deep and you can still train it and also you can parallelize training at the same time it
