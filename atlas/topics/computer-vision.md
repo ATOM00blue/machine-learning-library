@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > CNNs (ResNet, VGG, DenseNet), image classification, object detection & segmentation, and vision transformers (ViT, DETR, MAE).
 
-*53 documents.* 
+*89 documents.* 
 
 ## Start here
 

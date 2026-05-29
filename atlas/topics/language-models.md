@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > Building LLMs end-to-end: pretraining, the BERT/GPT/T5/LLaMA model reports, scaling laws, emergent abilities, and mixture-of-experts.
 
-*132 documents.* 
+*377 documents.* 
 
 ## Start here
 

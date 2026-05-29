@@ -1981,5 +1981,4128 @@
   ],
   "techniques": [],
   "level": "intro"
+ },
+ "corpus/papers/2503.14456.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "ssm",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.00663.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rnn-lstm",
+   "ssm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.06464.md": {
+  "topics": [
+   "efficient-architectures",
+   "sequence-models-rnn",
+   "language-models"
+  ],
+  "techniques": [
+   "ssm",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2605.22791.md": {
+  "topics": [
+   "efficient-architectures",
+   "sequence-models-rnn",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "attention",
+   "ssm",
+   "rnn-lstm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2601.22156.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "attention",
+   "rnn-lstm",
+   "transformer",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2507.06457.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention",
+   "language-models"
+  ],
+  "techniques": [
+   "attention",
+   "rnn-lstm",
+   "ssm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.21463.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "attention",
+   "ssm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.05364.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rnn-lstm",
+   "ssm"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2603.15569.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "ssm",
+   "rnn-lstm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2411.13676.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "ssm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2411.15242.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "ssm",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.10297.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.18970.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "ssm",
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2505.09388.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "moe",
+   "cot",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.05172.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "moe"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.22323.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "moe"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.23678.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "moe"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.21328.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "moe"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.11873.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "moe"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.23933.md": {
+  "topics": [
+   "interpretability",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "moe",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2507.17702.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "moe"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.19393.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "cot",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.16828.md": {
+  "topics": [
+   "reasoning-agents",
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "cot",
+   "rlhf",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.13837.md": {
+  "topics": [
+   "reasoning-agents",
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "dpo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.02665.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot",
+   "transformer"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2506.12928.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rlhf",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.14476.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.05118.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "ppo",
+   "rlhf",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.00891.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "cot",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.06639.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "dpo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.14245.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.11343.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "dpo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.19770.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "dpo",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.00883.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "dpo",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.16714.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "dpo",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.06293.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rlhf",
+   "dpo",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.12435.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "dpo",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.00040.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "dpo",
+   "rlhf",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.15595.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "dpo",
+   "rlhf",
+   "ppo"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2502.13189.md": {
+  "topics": [
+   "transformers-attention",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "attention",
+   "moe",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.08313.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "multimodal"
+  ],
+  "techniques": [
+   "attention",
+   "moe",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.20082.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.15383.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.06766.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.12637.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "lora-peft",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.17896.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "attention",
+   "flashattention",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.01963.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "ssm",
+   "rag",
+   "rnn-lstm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.07864.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention",
+   "language-models"
+  ],
+  "techniques": [
+   "attention",
+   "quantization",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.14837.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "attention",
+   "lora-peft",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.18893.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "attention",
+   "quantization",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.05916.md": {
+  "topics": [
+   "efficient-architectures",
+   "transformers-attention",
+   "language-models"
+  ],
+  "techniques": [
+   "attention",
+   "transformer",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.15304.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "quantization",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.18936.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "attention",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.01815.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "quantization",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2605.06676.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "attention",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.12285.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.18415.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "quantization",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.17116.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.19115.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.13178.md": {
+  "topics": [
+   "evaluation-trust",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2509.09679.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "quantization",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.05352.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2603.05168.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.16894.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "lora-peft",
+   "moe",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.00254.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2601.04823.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "lora-peft",
+   "moe",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2507.10085.md": {
+  "topics": [
+   "reasoning-agents",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "lora-peft",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.15828.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "lora-peft",
+   "moe",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.13003.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.22922.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "lora-peft",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.15103.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "lora-peft",
+   "moe",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.01840.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.04147.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "generative-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2603.01639.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.01695.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.17421.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "attention",
+   "flashattention",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.22179.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.04474.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.09992.md": {
+  "topics": [
+   "language-models",
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.09573.md": {
+  "topics": [
+   "language-models",
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.12216.md": {
+  "topics": [
+   "language-models",
+   "alignment-rlhf",
+   "generative-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "rlhf",
+   "ppo",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.17298.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "generative-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.16933.md": {
+  "topics": [
+   "multimodal",
+   "generative-models",
+   "language-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "mlp",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.24389.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "generative-models"
+  ],
+  "techniques": [
+   "moe",
+   "diffusion",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.10858.md": {
+  "topics": [
+   "language-models",
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/deepmindgoogle/gemini-diffusion-google-deepmind.md": {
+  "topics": [
+   "language-models",
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.03603.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.20314.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "vae",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.09642.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.10248.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "vae",
+   "dpo",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/developersgoogleblogcom/bring-your-ideas-to-life-veo-2-video-generation-available-for-developers.md": {
+  "topics": [
+   "generative-models",
+   "multimodal",
+   "ai-industry-news"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/genmoai/mochi-1-a-new-sota-in-open-text-to-video.md": {
+  "topics": [
+   "generative-models",
+   "multimodal",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention",
+   "embeddings",
+   "vae"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.11251.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "multimodal"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.15742.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "multimodal"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.21318.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion",
+   "quantization",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.16324.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "vae"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.12181.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "attention",
+   "embeddings",
+   "vae"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2508.06924.md": {
+  "topics": [
+   "generative-models",
+   "alignment-rlhf",
+   "computer-vision"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.22699.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.15681.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/iclrblogpostsgithubio/from-u-nets-to-dits-the-architectural-evolution-of-text-to-image-diffusion-model.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention",
+   "cnn"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2502.13923.md": {
+  "topics": [
+   "multimodal",
+   "language-models",
+   "computer-vision"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.10479.md": {
+  "topics": [
+   "multimodal",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "rlhf",
+   "lora-peft",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.20215.md": {
+  "topics": [
+   "multimodal",
+   "language-models",
+   "generative-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2508.18265.md": {
+  "topics": [
+   "multimodal",
+   "reasoning-agents",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "attention",
+   "moe",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2605.25979.md": {
+  "topics": [
+   "multimodal",
+   "computer-vision",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2409.11402.md": {
+  "topics": [
+   "multimodal",
+   "language-models",
+   "computer-vision"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.03555.md": {
+  "topics": [
+   "multimodal",
+   "language-models",
+   "computer-vision"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "lora-peft",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.23661.md": {
+  "topics": [
+   "multimodal",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "transformer",
+   "rlhf",
+   "cot",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2411.14347.md": {
+  "topics": [
+   "computer-vision",
+   "multimodal",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2508.10104.md": {
+  "topics": [
+   "computer-vision",
+   "efficient-architectures",
+   "generative-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2604.20329.md": {
+  "topics": [
+   "computer-vision",
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2601.12560.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "transformer",
+   "rag",
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2501.06322.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "rlhf",
+   "attention"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2503.18102.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "rag",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.03690.md": {
+  "topics": [
+   "reasoning-agents",
+   "ml-engineering",
+   "language-models"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.02547.md": {
+  "topics": [
+   "reasoning-agents",
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "dpo",
+   "rag",
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2503.23278.md": {
+  "topics": [
+   "reasoning-agents",
+   "alignment-rlhf",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.09734.md": {
+  "topics": [
+   "evaluation-trust",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2604.08178.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reasoning-agents",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2602.03442.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "rag",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.01113.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.21322.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.09136.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rag",
+   "transformer",
+   "attention"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2511.07328.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rag",
+   "rlhf",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.05779.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.00054.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings",
+   "transformer"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2603.25248.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "attention",
+   "embeddings",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/transformercircuitspub/circuit-tracing-revealing-computational-graphs-in-language-models.md": {
+  "topics": [
+   "interpretability",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/transformercircuitspub/on-the-biology-of-a-large-language-model.md": {
+  "topics": [
+   "interpretability",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.18823.md": {
+  "topics": [
+   "interpretability",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.09532.md": {
+  "topics": [
+   "interpretability",
+   "language-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "vae"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2604.07615.md": {
+  "topics": [
+   "interpretability",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.05534.md": {
+  "topics": [
+   "interpretability",
+   "language-models",
+   "neural-network-foundations"
+  ],
+  "techniques": [
+   "embeddings",
+   "vae"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.00691.md": {
+  "topics": [
+   "interpretability",
+   "language-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "vae",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.02917.md": {
+  "topics": [
+   "interpretability",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "vae",
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/deepmindgoogle/genie-2-a-large-scale-foundation-world-model.md": {
+  "topics": [
+   "generative-models",
+   "reinforcement-learning",
+   "multimodal"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/deepmindgoogle/genie-3-a-new-frontier-for-world-models.md": {
+  "topics": [
+   "generative-models",
+   "multimodal",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.03575.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "multimodal"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "vae"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.09985.md": {
+  "topics": [
+   "multimodal",
+   "reinforcement-learning",
+   "generative-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.14357.md": {
+  "topics": [
+   "generative-models",
+   "reinforcement-learning",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.21996.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "rag",
+   "diffusion",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.20171.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "ssm",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.09057.md": {
+  "topics": [
+   "generative-models",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "rnn-lstm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.16054.md": {
+  "topics": [
+   "multimodal",
+   "reinforcement-learning",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.14734.md": {
+  "topics": [
+   "multimodal",
+   "reinforcement-learning",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "diffusion",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.20020.md": {
+  "topics": [
+   "multimodal",
+   "reinforcement-learning",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.19645.md": {
+  "topics": [
+   "multimodal",
+   "reinforcement-learning",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "lora-peft",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.14420.md": {
+  "topics": [
+   "multimodal",
+   "reasoning-agents",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "moe",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.03342.md": {
+  "topics": [
+   "multimodal",
+   "reasoning-agents",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.24164.md": {
+  "topics": [
+   "multimodal",
+   "reinforcement-learning",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/huggingfaceco/and-fast-vision-language-action-models-for-general-robot-control.md": {
+  "topics": [
+   "multimodal",
+   "reinforcement-learning",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.05176.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "embeddings",
+   "lora-peft",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.13595.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models",
+   "multimodal"
+  ],
+  "techniques": [
+   "embeddings",
+   "rag",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.18418.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "rag",
+   "quantization",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.22733.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "embeddings",
+   "transformer",
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.12892.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "lora-peft",
+   "embeddings",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.12539.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "embeddings",
+   "quantization",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.14432.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "transformer",
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.19048.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "embeddings",
+   "lora-peft",
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.08905.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "transformer",
+   "rlhf",
+   "dpo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.01743.md": {
+  "topics": [
+   "efficient-architectures",
+   "multimodal",
+   "language-models"
+  ],
+  "techniques": [
+   "lora-peft",
+   "attention",
+   "moe"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.21318.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "cot",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.21233.md": {
+  "topics": [
+   "efficient-architectures",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "cot",
+   "rlhf",
+   "dpo",
+   "ppo",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.19786.md": {
+  "topics": [
+   "language-models",
+   "multimodal",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.02737.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "transformer",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.00656.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.15115.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "moe",
+   "rlhf",
+   "lora-peft",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.03313.md": {
+  "topics": [
+   "language-models",
+   "efficiency-systems",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.08606.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.19551.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.01631.md": {
+  "topics": [
+   "language-models",
+   "efficiency-systems",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2604.01411.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2507.09404.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "multimodal"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2411.18674.md": {
+  "topics": [
+   "multimodal",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.05817.md": {
+  "topics": [
+   "efficient-architectures",
+   "classical-ml",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "mlp"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.12273.md": {
+  "topics": [
+   "language-models",
+   "alignment-rlhf",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "lora-peft",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.15573.md": {
+  "topics": [
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rlhf",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.15592.md": {
+  "topics": [
+   "language-models",
+   "efficiency-systems",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "transformer",
+   "rlhf",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2602.20117.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.02096.md": {
+  "topics": [
+   "multimodal",
+   "reinforcement-learning",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2409.08239.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "cot",
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.17811.md": {
+  "topics": [
+   "multimodal",
+   "generative-models",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.14683.md": {
+  "topics": [
+   "multimodal",
+   "language-models",
+   "generative-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.04423.md": {
+  "topics": [
+   "multimodal",
+   "generative-models",
+   "computer-vision"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "vae"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.13721.md": {
+  "topics": [
+   "multimodal",
+   "generative-models",
+   "language-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow",
+   "transformer",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.13436.md": {
+  "topics": [
+   "multimodal",
+   "generative-models",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.02567.md": {
+  "topics": [
+   "multimodal",
+   "generative-models",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2411.07975.md": {
+  "topics": [
+   "multimodal",
+   "generative-models",
+   "language-models"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2507.17801.md": {
+  "topics": [
+   "multimodal",
+   "generative-models",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.00037.md": {
+  "topics": [
+   "language-models",
+   "multimodal",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "rnn-lstm"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.06885.md": {
+  "topics": [
+   "generative-models",
+   "sequence-models-rnn",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.10117.md": {
+  "topics": [
+   "generative-models",
+   "language-models",
+   "multimodal"
+  ],
+  "techniques": [
+   "transformer",
+   "normalizing-flow",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.08528.md": {
+  "topics": [
+   "language-models",
+   "multimodal",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "attention"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2511.12347.md": {
+  "topics": [
+   "generative-models",
+   "multimodal",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "rnn-lstm",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.00045.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "multimodal"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2602.04768.md": {
+  "topics": [
+   "transformers-attention",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.22560.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures",
+   "sequence-models-rnn"
+  ],
+  "techniques": [
+   "attention",
+   "ssm",
+   "cnn"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.14098.md": {
+  "topics": [
+   "transformers-attention",
+   "language-models",
+   "neural-network-foundations"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.16441.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.02259.md": {
+  "topics": [
+   "transformers-attention",
+   "efficient-architectures",
+   "neural-network-foundations"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2601.03774.md": {
+  "topics": [
+   "transformers-attention",
+   "efficient-architectures",
+   "neural-network-foundations"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.13169.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures",
+   "interpretability"
+  ],
+  "techniques": [
+   "cnn",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.15116.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings",
+   "lora-peft"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2409.16040.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "moe",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.10469.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "moe",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.10393.md": {
+  "topics": [
+   "evaluation-trust",
+   "sequence-models-rnn",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.15821.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "transformers-attention",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.11698.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.04011.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "transformers-attention",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2510.00742.md": {
+  "topics": [
+   "evaluation-trust",
+   "sequence-models-rnn",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/huggingfaceco/timesfm-2-5-smaller-longer-context-foundation-model-leading-gift-eval.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.05564.md": {
+  "topics": [
+   "classical-ml",
+   "transformers-attention",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.21204.md": {
+  "topics": [
+   "classical-ml",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.05584.md": {
+  "topics": [
+   "classical-ml",
+   "transformers-attention",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "attention",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2602.11139.md": {
+  "topics": [
+   "classical-ml",
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "attention",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.14415.md": {
+  "topics": [
+   "classical-ml",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.02672.md": {
+  "topics": [
+   "classical-ml",
+   "transformers-attention",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.20003.md": {
+  "topics": [
+   "classical-ml",
+   "transformers-attention",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.23675.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.16084.md": {
+  "topics": [
+   "reinforcement-learning",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.12118.md": {
+  "topics": [
+   "reasoning-agents",
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.23884.md": {
+  "topics": [
+   "efficient-architectures",
+   "sequence-models-rnn",
+   "language-models"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "attention",
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.24510.md": {
+  "topics": [
+   "interpretability",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "embeddings",
+   "cnn",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.04268.md": {
+  "topics": [
+   "transformers-attention",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "attention",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.10223.md": {
+  "topics": [
+   "language-models",
+   "efficiency-systems",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.16982.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "moe",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.05491.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2507.11005.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "neural-network-foundations"
+  ],
+  "techniques": [
+   "transformer",
+   "mlp"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.03378.md": {
+  "topics": [
+   "efficient-architectures",
+   "neural-network-foundations",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "mlp"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.01440.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2508.06743.md": {
+  "topics": [
+   "efficient-architectures",
+   "classical-ml",
+   "language-models"
+  ],
+  "techniques": [
+   "mlp"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2603.03597.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "lora-peft",
+   "quantization"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.05084.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures",
+   "classical-ml"
+  ],
+  "techniques": [
+   "mlp"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.05171.md": {
+  "topics": [
+   "transformers-attention",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.23314.md": {
+  "topics": [
+   "transformers-attention",
+   "efficient-architectures",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "rnn-lstm",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/researchgoogle/titans-miras-helping-ai-have-long-term-memory.md": {
+  "topics": [
+   "sequence-models-rnn",
+   "efficient-architectures",
+   "language-models"
+  ],
+  "techniques": [
+   "rnn-lstm",
+   "attention",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.08247.md": {
+  "topics": [
+   "efficient-architectures",
+   "sequence-models-rnn",
+   "language-models"
+  ],
+  "techniques": [
+   "ssm",
+   "moe",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.17671.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.11831.md": {
+  "topics": [
+   "evaluation-trust",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2601.10904.md": {
+  "topics": [
+   "evaluation-trust",
+   "reasoning-agents",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "cot",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.02694.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2411.04872.md": {
+  "topics": [
+   "evaluation-trust",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.16944.md": {
+  "topics": [
+   "evaluation-trust",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.17521.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models"
+  ],
+  "techniques": [],
+  "level": "advanced"
+ },
+ "corpus/papers/2603.13372.md": {
+  "topics": [
+   "evaluation-trust",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "cot",
+   "rlhf"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2412.14093.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "interpretability"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.04984.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reasoning-agents",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "cot",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.18397.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reinforcement-learning",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2501.17315.md": {
+  "topics": [
+   "alignment-rlhf",
+   "evaluation-trust",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.01420.md": {
+  "topics": [
+   "evaluation-trust",
+   "alignment-rlhf",
+   "interpretability"
+  ],
+  "techniques": [],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.15992.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "embeddings",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.09638.md": {
+  "topics": [
+   "evaluation-trust",
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2604.24618.md": {
+  "topics": [
+   "alignment-rlhf",
+   "evaluation-trust",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.07164.md": {
+  "topics": [
+   "reasoning-agents",
+   "ml-engineering",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "rlhf",
+   "cot",
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.23045.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rlhf",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.16941.md": {
+  "topics": [
+   "evaluation-trust",
+   "reasoning-agents",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.20285.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "cot",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.20957.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.18471.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.12286.md": {
+  "topics": [
+   "evaluation-trust",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.18470.md": {
+  "topics": [
+   "evaluation-trust",
+   "reasoning-agents",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.21801.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "cot",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.11354.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "transformer",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.07640.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "lora-peft",
+   "dpo",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.22570.md": {
+  "topics": [
+   "reasoning-agents",
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.20571.md": {
+  "topics": [
+   "reasoning-agents",
+   "alignment-rlhf",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/deepmindgoogle/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standa.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2508.03613.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2507.15855.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "cot",
+   "rag"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2603.09938.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "moe",
+   "lora-peft"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2408.07666.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "multimodal"
+  ],
+  "techniques": [
+   "lora-peft",
+   "transformer",
+   "moe"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2503.08099.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "transformer",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.10436.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "ml-engineering"
+  ],
+  "techniques": [
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.21437.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.18774.md": {
+  "topics": [
+   "language-models",
+   "interpretability",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "lora-peft",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.01636.md": {
+  "topics": [
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2604.19089.md": {
+  "topics": [
+   "language-models",
+   "efficiency-systems",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.13447.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2512.15657.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.14949.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.23589.md": {
+  "topics": [
+   "generative-models",
+   "language-models",
+   "multimodal"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow",
+   "attention"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.24526.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2602.02571.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "normalizing-flow",
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/biorxivorg/simulating-500-million-years-of-evolution-with-a-language-model.md": {
+  "topics": [
+   "language-models",
+   "generative-models",
+   "multimodal"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/biorxivorg/genome-modeling-and-design-across-all-domains-of-life-with-evo-2.md": {
+  "topics": [
+   "language-models",
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "ssm",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.07272.md": {
+  "topics": [
+   "language-models",
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "transformer",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.20743.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "multimodal"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rag",
+   "embeddings"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2509.06457.md": {
+  "topics": [
+   "classical-ml",
+   "evaluation-trust",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/biorxivorg/chai-1-decoding-the-molecular-interactions-of-life.md": {
+  "topics": [
+   "computer-vision",
+   "efficient-architectures",
+   "generative-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.08827.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.03746.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "dpo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.12853.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.20347.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.00030.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "rlhf",
+   "dpo",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.27072.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "cot"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.21444.md": {
+  "topics": [
+   "language-models",
+   "reinforcement-learning",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2602.01357.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "rlhf",
+   "dpo",
+   "ppo"
+  ],
+  "level": "frontier"
+ },
+ "corpus/web/lilianwenggithubio/why-we-think.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "cot",
+   "rlhf",
+   "ppo"
+  ],
+  "level": "advanced"
+ },
+ "corpus/web/lilianwenggithubio/reward-hacking-in-reinforcement-learning.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reinforcement-learning",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "dpo"
+  ],
+  "level": "advanced"
+ },
+ "corpus/web/magazinesebastianraschkacom/the-state-of-llms-2025-progress-progress-and-predictions.md": {
+  "topics": [
+   "language-models",
+   "alignment-rlhf",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "dpo",
+   "lora-peft",
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/web/magazinesebastianraschkacom/the-state-of-reinforcement-learning-for-llm-reasoning.md": {
+  "topics": [
+   "alignment-rlhf",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "dpo",
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/web/huggingfaceco/smollm3-smol-multilingual-long-context-reasoner.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rlhf",
+   "dpo",
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2502.21321.md": {
+  "topics": [
+   "language-models",
+   "alignment-rlhf",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "dpo",
+   "lora-peft",
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2503.21614.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "cot",
+   "transformer",
+   "rlhf"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2507.02076.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2503.12434.md": {
+  "topics": [
+   "reasoning-agents",
+   "language-models",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "rlhf",
+   "ppo",
+   "rag",
+   "lora-peft",
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2503.10677.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "rag",
+   "embeddings",
+   "transformer"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2507.20198.md": {
+  "topics": [
+   "efficient-architectures",
+   "multimodal",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2510.09586.md": {
+  "topics": [
+   "multimodal",
+   "language-models",
+   "computer-vision"
+  ],
+  "techniques": [
+   "transformer",
+   "lora-peft",
+   "diffusion",
+   "attention",
+   "embeddings"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2509.25373.md": {
+  "topics": [
+   "multimodal",
+   "reasoning-agents",
+   "language-models"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "cot"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2501.07278.md": {
+  "topics": [
+   "language-models",
+   "reasoning-agents",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "transformer",
+   "rag",
+   "embeddings"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2503.20018.md": {
+  "topics": [
+   "neural-network-foundations",
+   "transformers-attention",
+   "reinforcement-learning"
+  ],
+  "techniques": [
+   "transformer",
+   "attention",
+   "rlhf"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.15375.md": {
+  "topics": [
+   "efficient-architectures",
+   "language-models",
+   "multimodal"
+  ],
+  "techniques": [
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.00477.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "mlp",
+   "cnn"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.03951.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "cnn",
+   "mlp"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.11707.md": {
+  "topics": [
+   "neural-network-foundations",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "mlp"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2603.12658.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "alignment-rlhf"
+  ],
+  "techniques": [
+   "lora-peft",
+   "rlhf"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2506.03320.md": {
+  "topics": [
+   "language-models",
+   "efficient-architectures",
+   "reasoning-agents"
+  ],
+  "techniques": [
+   "lora-peft",
+   "transformer",
+   "moe"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2505.16831.md": {
+  "topics": [
+   "interpretability",
+   "evaluation-trust",
+   "language-models"
+  ],
+  "techniques": [
+   "lora-peft",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2506.09227.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "interpretability"
+  ],
+  "techniques": [
+   "lora-peft"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2510.03567.md": {
+  "topics": [
+   "alignment-rlhf",
+   "language-models",
+   "interpretability"
+  ],
+  "techniques": [
+   "lora-peft"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2503.01854.md": {
+  "topics": [
+   "language-models",
+   "alignment-rlhf",
+   "interpretability"
+  ],
+  "techniques": [
+   "lora-peft",
+   "rlhf"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2508.13730.md": {
+  "topics": [
+   "ml-engineering",
+   "evaluation-trust",
+   "efficiency-systems"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2506.11687.md": {
+  "topics": [
+   "language-models",
+   "alignment-rlhf",
+   "evaluation-trust"
+  ],
+  "techniques": [
+   "rlhf"
+  ],
+  "level": "advanced"
+ },
+ "corpus/papers/2507.04771.md": {
+  "topics": [
+   "evaluation-trust",
+   "efficiency-systems",
+   "classical-ml"
+  ],
+  "techniques": [],
+  "level": "frontier"
+ },
+ "corpus/papers/2504.10612.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2510.02300.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.12557.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2412.16906.md": {
+  "topics": [
+   "generative-models",
+   "computer-vision",
+   "efficient-architectures"
+  ],
+  "techniques": [
+   "diffusion",
+   "gan",
+   "normalizing-flow"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2509.25127.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow",
+   "transformer"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2410.21357.md": {
+  "topics": [
+   "generative-models",
+   "language-models",
+   "transformers-attention"
+  ],
+  "techniques": [
+   "diffusion",
+   "transformer",
+   "embeddings"
+  ],
+  "level": "frontier"
+ },
+ "corpus/papers/2511.22009.md": {
+  "topics": [
+   "generative-models",
+   "efficient-architectures",
+   "computer-vision"
+  ],
+  "techniques": [
+   "diffusion",
+   "normalizing-flow",
+   "quantization"
+  ],
+  "level": "frontier"
  }
 }

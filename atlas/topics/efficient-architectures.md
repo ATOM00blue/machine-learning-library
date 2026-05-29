@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > Alternatives to dense quadratic attention: sparse/linear attention, FlashAttention, long-context methods, and state-space models (Mamba, RWKV).
 
-*33 documents.* 
+*205 documents.* 
 
 ## Start here
 

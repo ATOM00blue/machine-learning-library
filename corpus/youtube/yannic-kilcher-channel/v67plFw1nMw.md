@@ -9,7 +9,7 @@ duration_sec: 1951.0
 language: "en"
 fetched_at: "2026-05-26T22:49:35Z"
 topics: []
-aliases: ["Titans: Learning to Memorize at Test Time (Paper Analysis)", "Titans"]
+aliases: ["Titans: Learning to Memorize at Test Time (Paper Analysis)"]
 tags: [topic/efficient-architectures, topic/transformers-attention, level/frontier, medium/lecture, task/language, technique/transformer, technique/attention, technique/ssm, technique/mlp]
 ---
 

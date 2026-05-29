@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > Post-training LLMs to human preferences: instruction tuning/SFT, RLHF/InstructGPT, reward modeling, DPO/ORPO/GRPO, and safety alignment.
 
-*25 documents.* 
+*93 documents.* 
 
 ## Start here
 
@@ -17,6 +17,7 @@ cssclasses: [moc]
 3. [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](../../corpus/papers/2210.17323.md)  · 📄 paper · advanced
 4. [Training language models to follow instructions with human feedback](../../corpus/papers/2203.02155.md)  · 📄 paper · advanced
 5. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](../../corpus/papers/2305.18290.md)  · 📄 paper · frontier
+6. [Qwen2.5 Technical Report](../../corpus/papers/2412.15115.md)  · 📄 paper · frontier
 
 ## All documents
 

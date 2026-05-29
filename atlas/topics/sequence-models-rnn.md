@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > Word embeddings, RNN/LSTM/GRU, seq2seq with attention, neural machine translation, and classic NLP tasks. The bridge to transformers.
 
-*47 documents.* 
+*76 documents.* 
 
 ## Start here
 
