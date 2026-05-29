@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > News, commentary, and the broader ecosystem: model-release roundups, policy, AGI debate, conference coverage, and applied 'AI for X' talks.
 
-*70 documents.* 
+*71 documents.* 
 
 ## Start here
 

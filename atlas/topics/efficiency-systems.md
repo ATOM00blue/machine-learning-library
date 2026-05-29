@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > Making models cheap to adapt, train, and serve: quantization, LoRA/PEFT, CUDA/Triton kernels, parallelism, and paged-attention serving (vLLM).
 
-*21 documents.* 
+*44 documents.* 
 
 ## Start here
 

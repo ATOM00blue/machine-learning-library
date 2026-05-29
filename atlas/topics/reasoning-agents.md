@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > Eliciting and structuring reasoning, and tool-using agents: chain-of-thought, tree-of-thoughts, test-time compute, ReAct/Toolformer, and RAG.
 
-*62 documents.* 
+*166 documents.* 
 
 ## Start here
 

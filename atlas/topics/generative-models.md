@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > Deep generative modeling: VAEs, GANs, normalizing flows, autoregressive models, and diffusion incl. latent/stable diffusion and text-to-image.
 
-*80 documents.* 
+*144 documents.* 
 
 ## Start here
 

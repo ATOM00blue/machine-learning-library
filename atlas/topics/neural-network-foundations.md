@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > MLPs, the forward pass, backpropagation, and the training machinery — optimizers (SGD/Adam), normalization, dropout, initialization. The entry point.
 
-*69 documents.* 
+*84 documents.* 
 
 ## Start here
 

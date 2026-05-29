@@ -8,7 +8,7 @@ cssclasses: [moc]
 
 > Models bridging modalities: contrastive vision-language (CLIP), text-to-image, audio/speech transformers, and general multimodal work.
 
-*15 documents.* 
+*69 documents.* 
 
 ## Start here
 
@@ -16,6 +16,8 @@ cssclasses: [moc]
 2. [AI Dev 26 x SF | Paige Bailey: What's New and What's Next in AI](../../corpus/youtube/deeplearningai/chs2Xx4JbBs.md)  · 🎓 lecture · intro
 3. [Learning Transferable Visual Models From Natural Language Supervision](../../corpus/papers/2103.00020.md)  · 📄 paper · advanced
 4. [Hierarchical Text-Conditional Image Generation with CLIP Latents](../../corpus/papers/2204.06125.md)  · 📄 paper · advanced
+5. [NVLM: Open Frontier-Class Multimodal LLMs](../../corpus/papers/2409.11402.md)  · 📄 paper · frontier
+6. [PaliGemma 2: A Family of Versatile VLMs for Transfer](../../corpus/papers/2412.03555.md)  · 📄 paper · frontier
 
 ## All documents
 
