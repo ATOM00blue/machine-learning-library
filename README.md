@@ -93,7 +93,7 @@ machine-learning-library/
 ├── NOTICE.md                  ← licensing & usage notes
 ├── AGENTS.md / CLAUDE.md      ← how an AI agent should navigate & cite this corpus
 ├── corpus/
-│   ├── INDEX.md               ← machine-generated index of all 590 files
+│   ├── INDEX.md               ← machine-generated index of all 923 files
 │   ├── papers/                ← 78 arXiv papers (full text + metadata)
 │   ├── youtube/               ← 474 lecture transcripts, grouped by channel
 │   └── web/                   ← 38 articles, grouped by domain
