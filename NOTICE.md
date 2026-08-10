@@ -9,6 +9,7 @@ This repository is a **curation** of publicly available machine-learning educati
 | Component | Rights |
 |---|---|
 | Repository structure, `INDEX.md`, organization, any scripts | MIT License (this repo) |
+| APRL implementation, tests, examples, and documentation | MIT License (this repo) |
 | arXiv papers (`corpus/papers/`) | Retained by their authors; included under arXiv's non-exclusive distribution license. Source ID + URL in each file. |
 | Lecture transcripts (`corpus/youtube/`) | Auto-generated captions of publicly available videos, included for research/educational use. All rights remain with the speakers, courses, and institutions. |
 | Web articles (`corpus/web/`) | Copyright their respective authors/publishers. Included for research/educational use with attribution and source URLs. |

@@ -22,6 +22,23 @@ atlas/TAGS.md            — the controlled tag vocabulary (authoritative)
 Files are organized **by source on disk**, but tagged **by topic** in
 frontmatter — so retrieve by tag/content, not by folder.
 
+## Experimental APRL algorithm
+
+This repository also contains an installable experimental tabular-learning
+algorithm, **Adaptive Prototype Residual Learning (APRL)**. It is separate from
+the corpus build pipeline:
+
+- `algorithms/aprl/README.md` — mathematical specification, API, and limitations
+- `algorithms/aprl/RELATED_WORK.md` — prior art and the novelty boundary
+- `algorithms/aprl/BENCHMARKS.md` — generated baseline results
+- `src/aprl/` — NumPy implementation
+- `tests/` — behavioral tests
+- `benchmarks/benchmark_aprl.py` — reproducible comparison runner
+
+Do not describe APRL as scientifically novel or state of the art. It is a custom
+experimental composition whose individual ingredients have substantial prior art.
+Run `python -m pytest` and Ruff after changing it.
+
 ## Frontmatter schema
 
 Every doc starts with a YAML block. Fields you'll use for retrieval:
