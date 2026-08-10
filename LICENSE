@@ -2,11 +2,12 @@ MIT License
 
 Copyright (c) 2026 ML Foundations Corpus contributors
 
-The MIT License below applies to the ORGANIZATION of this repository — its
-structure, index, and any scripts. It does NOT grant rights to the underlying
-educational content (research papers, lecture transcripts, and articles), which
-remains the property of its original authors and is included for research and
-educational purposes. See NOTICE.md and SOURCES.md.
+The MIT License below applies to the ORIGINAL WORK in this repository — its
+structure, index, scripts, APRL algorithm implementation, tests, examples, and
+documentation. It does NOT grant rights to the underlying educational content
+(research papers, lecture transcripts, and articles), which remains the property
+of its original authors and is included for research and educational purposes.
+See NOTICE.md and SOURCES.md.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

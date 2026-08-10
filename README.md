@@ -1,8 +1,13 @@
-# Machine Learning Library
+# Custom Machine Learning Algorithm + Curated ML Knowledge Base
 
-**A hand-curated, machine-readable library (a curated ML corpus / dataset) of the best machine-learning education on the internet — top university courses, canonical research papers, and the most-cited explainer blogs — normalized into one consistent Markdown format with full provenance.**
+**One repository with two connected layers: Adaptive Prototype Residual Learning
+(APRL), a custom experimental algorithm for numeric tabular ML, and a
+hand-curated, machine-readable knowledge base of leading university courses,
+canonical research papers, and widely cited explainers—normalized into consistent
+Markdown with full provenance.**
 
-923 documents · ~11 million tokens · beginner to frontier (2026) research · every source credited.
+Custom classifier + regressor · 923 documents · ~11 million tokens · beginner to
+frontier (2026) research · every source credited.
 
 ![docs](https://img.shields.io/badge/documents-923-blue)
 ![tokens](https://img.shields.io/badge/tokens-~11M-green)
@@ -10,18 +15,36 @@
 ![lectures](https://img.shields.io/badge/lectures-474-red)
 ![articles](https://img.shields.io/badge/articles-58-purple)
 ![topics](https://img.shields.io/badge/topics-17-blueviolet)
+![tests](https://img.shields.io/badge/APRL_tests-11_passing-brightgreen)
 
-> **🆕 Now topic-organized, Obsidian-ready, and agent-ready.** Every doc is tagged into a 17-topic map ([`atlas/`](atlas/)); open the folder as a turnkey **Obsidian vault** (bundled config + graph), or point **Claude Code / Cursor / any agent** at it and it answers ML questions citing real papers and lectures. → [**Open in Obsidian / connect your agent**](#open-in-obsidian--connect-your-agent)
+> **🧪 Build with APRL.** Train the repository's custom classifier or regressor,
+> inspect uncertainty, and reproduce its baseline comparisons. →
+> [**Explore the algorithm**](algorithms/aprl/README.md)
+>
+> **📚 Learn and retrieve from the knowledge base.** Every document is tagged into
+> a 17-topic map; open the repository as an Obsidian vault or point an AI agent at
+> it for answers grounded in papers and lectures. →
+> [**Open in Obsidian / connect your agent**](#open-in-obsidian--connect-your-agent)
 
 ---
 
 ## Why this exists
 
-The best material for learning machine learning is scattered across dozens of course pages, YouTube channels, arXiv PDFs, and personal blogs — each in a different format, none of it easy to search, embed, or feed to a model.
+Machine learning repositories often provide either code without enough conceptual
+context or learning material without a concrete system to experiment with. This
+project keeps both in one place: APRL provides an inspectable learning algorithm,
+while the curated corpus provides the theory, provenance, and educational context
+around it.
 
-This repo pulls the highest-signal sources into **one place**, in **one consistent format**, with **clean metadata on every file**. The curation is the point: instead of an undifferentiated dump of arXiv or a noisy web scrape, this is a deliberately chosen reading list spanning the whole field — from "what is a neural network" all the way to sparse-attention and reasoning-model papers from 2025.
+The best material for learning machine learning is scattered across course pages,
+YouTube channels, arXiv PDFs, and personal blogs. The knowledge-base layer pulls
+high-signal sources into **one place**, in **one consistent format**, with **clean
+metadata on every file**. Instead of an undifferentiated dump, it is a deliberately
+chosen collection spanning fundamentals through frontier research.
 
-It's designed to be **used by both humans and machines**: read it directly to learn, or drop it into a vector database to build a retrieval-augmented tutor, fine-tune a domain model, or benchmark embeddings.
+Use the repository to train and evaluate APRL, study how the algorithm is built,
+read the corpus directly, build retrieval systems, benchmark embeddings, or ground
+an AI tutor in attributed sources.
 
 ---
 
@@ -29,6 +52,9 @@ It's designed to be **used by both humans and machines**: read it directly to le
 
 | | |
 |---|---|
+| **Custom algorithm** | APRL classifier + regressor for numeric tabular data |
+| **Algorithm capabilities** | Local nonlinear residuals, uncertainty, missing values, incremental batches |
+| **Algorithm evidence** | 11 tests + reproducible five-dataset smoke benchmark |
 | **Total documents** | 923 |
 | **Total size** | ~42M characters (~11M tokens) |
 | **arXiv papers** | 391 (78 full-text + 313 recent abstract+metadata) |
@@ -43,6 +69,19 @@ Every file begins with structured frontmatter (title, source, URL, authors, date
 ---
 
 ## What's inside
+
+### Custom ML algorithm (`src/aprl/`)
+
+**Adaptive Prototype Residual Learning (APRL)** combines a global ridge model
+with relevance-weighted prototypes and local polynomial experts that correct the
+global model's residual errors. It provides classification, regression,
+distance-aware uncertainty, missing-value handling, and exact incremental batch
+updates through a NumPy-only runtime. The implementation is backed by tests,
+benchmarks, mathematical documentation, and a conservative related-work review.
+
+APRL is a custom experimental composition, not a claim of scientific novelty or
+state-of-the-art performance. See the [algorithm guide](algorithms/aprl/README.md)
+and [reproducible results](algorithms/aprl/BENCHMARKS.md).
 
 ### Research papers (`corpus/papers/` — 391)
 
@@ -104,9 +143,14 @@ machine-learning-library/
 │   └── paths/                 ← curated reading paths (Zero to Transformer, …)
 ├── .obsidian/                 ← bundled vault config — open the folder in Obsidian and it just works
 ├── tools/                     ← scripts that clean, tag, and index the corpus
+├── algorithms/aprl/           ← APRL specification, benchmarks, and related work
+├── src/aprl/                  ← installable APRL classifier and regressor
+├── tests/                     ← APRL behavioral test suite
+├── benchmarks/                ← reproducible model comparisons
 └── examples/
     ├── self-attention-study-note.md   ← a synthesized, fully-cited study note
-    └── rag_quickstart.py              ← minimal semantic search / RAG over the corpus
+    ├── rag_quickstart.py              ← minimal semantic search / RAG over the corpus
+    └── aprl_quickstart.py             ← APRL classification/regression example
 ```
 
 ### Frontmatter format
@@ -154,6 +198,23 @@ This corpus is a building block. Some of the things it's good for:
 6. **Personalized reading paths.** Filter by topic and source to generate an ordered learning path (e.g. "everything on diffusion models, easiest first").
 
 7. **Offline reference library.** It's just Markdown — grep it, open it in Obsidian, read it on a plane.
+
+### Custom machine-learning algorithm: APRL
+
+The repository now also contains **Adaptive Prototype Residual Learning (APRL)**,
+a custom experimental algorithm for numeric tabular classification and regression.
+It combines a global ridge model, relevance-weighted prototypes, local polynomial
+residual experts, distance-aware blending, and uncertainty estimates.
+
+```bash
+python -m pip install -e .
+python examples/aprl_quickstart.py
+```
+
+Start with [`algorithms/aprl/README.md`](algorithms/aprl/README.md) for the full
+mathematical specification, limitations, API, tests, related work, and reproducible
+baseline benchmarks. APRL is presented as an experimental custom composition—not
+as a proven state-of-the-art or scientifically novel method.
 
 ---
 
@@ -237,5 +298,5 @@ See **[NOTICE.md](NOTICE.md)** for licensing details and the takedown/removal po
 
 ## License
 
-- The **structure, index, scripts, and organization** of this repository are released under the MIT License.
+- The **structure, index, scripts, APRL implementation, and organization** of this repository are released under the MIT License.
 - The **content of each document** remains under the rights of its original author/publisher and is included here for research and educational purposes. See [NOTICE.md](NOTICE.md).
